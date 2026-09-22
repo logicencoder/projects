@@ -29,8 +29,7 @@ Self-hosted operator consoles for execution and monitoring — live market data,
 | [MEXC Trading Dashboard & Bot Suite](https://github.com/logicencoder/mexc-trading-dashboard-bot-suite-overview) | Five bot engines, multi-bot profiles, execution diagnostics, chart + book + account panels |
 | [CEX/DEX Arb](https://github.com/logicencoder/cex-dex-arb-overview) | Uniswap ↔ MEXC arbitrage workstation — pair scanner, dual arb tables, MEV-protected swaps |
 | [DEX Swapper](https://github.com/logicencoder/dex-swapper-overview) | Operator webapp for DEX swap execution (Dynex DNX first) |
-| [SOL Pump App](https://github.com/logicencoder/sol-pump-app-overview) | Solana pump.fun trading desk — watchlist, sniper ticket, Telegram signals via Jupiter |
-| [Multi-Coin Monitor](https://github.com/logicencoder/multi-coin-monitor-overview) | Multi-asset CEX screening board with simulated Uniswap leg |
+
 
 ## Operator dashboards & desktop apps
 

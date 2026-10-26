@@ -1,0 +1,506 @@
+[
+  {
+    "repo": "celestial-lab-plugin-overview",
+    "commit": "67bcdd11f9391fdb247889d82330a09ad7954a5c",
+    "overview": "https://github.com/logicencoder/celestial-lab-plugin-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/celestial-lab-plugin-overview/67bcdd11f9391fdb247889d82330a09ad7954a5c/assets/current-2026-10-26/space-overview.png",
+      "alt": "Celestial Lab space overview",
+      "width": 1600,
+      "height": 560,
+      "bytes": 416626
+    }
+  },
+  {
+    "repo": "elec-prices-bridge-overview",
+    "commit": "6c3719ede20341a7ccfec07a57ff68a502d73ada",
+    "overview": "https://github.com/logicencoder/elec-prices-bridge-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/elec-prices-bridge-overview/6c3719ede20341a7ccfec07a57ff68a502d73ada/assets/overview-2026-10-24.png",
+      "alt": "European electricity market comparison",
+      "width": 1600,
+      "height": 900,
+      "bytes": 221467
+    }
+  },
+  {
+    "repo": "russian-dc-observatory-monitor-overview",
+    "commit": "cc326b9dceb8a331e2c0686c84e4dd68770bcacf",
+    "overview": "https://github.com/logicencoder/russian-dc-observatory-monitor-overview",
+    "image": null
+  },
+  {
+    "repo": "air-quality-bridge-overview",
+    "commit": "f6b020ad81af1e93359408b489cb427f34197fea",
+    "overview": "https://github.com/logicencoder/air-quality-bridge-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/air-quality-bridge-overview/f6b020ad81af1e93359408b489cb427f34197fea/assets/overview-2026-10-24.png",
+      "alt": "Air Quality station observations",
+      "width": 1600,
+      "height": 900,
+      "bytes": 177761
+    }
+  },
+  {
+    "repo": "mil-flights-bridge-overview",
+    "commit": "0a944006138d0f6945d81d1fc126ee852aa8e8fd",
+    "overview": "https://github.com/logicencoder/mil-flights-bridge-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/mil-flights-bridge-overview/0a944006138d0f6945d81d1fc126ee852aa8e8fd/assets/overview-2026-10-24.png",
+      "alt": "Military Flights aircraft board",
+      "width": 1600,
+      "height": 900,
+      "bytes": 243442
+    }
+  },
+  {
+    "repo": "le-awair-monitor-dashboard-overview",
+    "commit": "266a01023f11c9fe140bae1d757a6786bcd0368d",
+    "overview": "https://github.com/logicencoder/le-awair-monitor-dashboard-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/le-awair-monitor-dashboard-overview/266a01023f11c9fe140bae1d757a6786bcd0368d/assets/overview-2026-10-24.png",
+      "alt": "Awair environmental metrics and measurement history",
+      "width": 1600,
+      "height": 1000,
+      "bytes": 222540
+    }
+  },
+  {
+    "repo": "cve-watch-bridge-overview",
+    "commit": "c30abdaacd4d92a66d45ceaf1b640e430c444ff9",
+    "overview": "https://github.com/logicencoder/cve-watch-bridge-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/cve-watch-bridge-overview/c30abdaacd4d92a66d45ceaf1b640e430c444ff9/assets/overview-2026-10-24.png",
+      "alt": "CVE Watch vulnerability overview",
+      "width": 1600,
+      "height": 900,
+      "bytes": 99549
+    }
+  },
+  {
+    "repo": "mexc-live-stats-plugin-overview",
+    "commit": "48343f2cbb78d46a0ac92b83535002e8b4c90b80",
+    "overview": "https://github.com/logicencoder/mexc-live-stats-plugin-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/mexc-live-stats-plugin-overview/48343f2cbb78d46a0ac92b83535002e8b4c90b80/assets/live-dashboard.png",
+      "alt": "MEXC Live Statistics workspace",
+      "width": 1261,
+      "height": 2764,
+      "bytes": 1113116
+    }
+  },
+  {
+    "repo": "gate-live-stats-plugin-overview",
+    "commit": "26fd597ef69b2cc8d1dcfb4700deb0c7b0af4fa9",
+    "overview": "https://github.com/logicencoder/gate-live-stats-plugin-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/gate-live-stats-plugin-overview/26fd597ef69b2cc8d1dcfb4700deb0c7b0af4fa9/assets/live-dashboard.png",
+      "alt": "Gate Live Statistics workspace",
+      "width": 1252,
+      "height": 2758,
+      "bytes": 1116268
+    }
+  },
+  {
+    "repo": "xex-spread-bridge-overview",
+    "commit": "06e3ec30d54784f94cd63ca4b64735724564f0ee",
+    "overview": "https://github.com/logicencoder/xex-spread-bridge-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/xex-spread-bridge-overview/06e3ec30d54784f94cd63ca4b64735724564f0ee/assets/overview-2026-10-24.png",
+      "alt": "MEXC and Gate spread comparison",
+      "width": 1600,
+      "height": 900,
+      "bytes": 108230
+    }
+  },
+  {
+    "repo": "deriv-board-bridge-overview",
+    "commit": "ac9f4e93e0904fa66d5f9ad3e16d3f85b1aca016",
+    "overview": "https://github.com/logicencoder/deriv-board-bridge-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/deriv-board-bridge-overview/ac9f4e93e0904fa66d5f9ad3e16d3f85b1aca016/assets/overview-2026-10-24.png",
+      "alt": "Perpetual futures market overview",
+      "width": 1600,
+      "height": 900,
+      "bytes": 156059
+    }
+  },
+  {
+    "repo": "eth-gas-live-plugin-overview",
+    "commit": "89d0d9184f089108ba2bc935a63338be36799763",
+    "overview": "https://github.com/logicencoder/eth-gas-live-plugin-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/eth-gas-live-plugin-overview/89d0d9184f089108ba2bc935a63338be36799763/assets/live-dashboard.png",
+      "alt": "ETH Gas Live workspace",
+      "width": 1435,
+      "height": 3341,
+      "bytes": 1536458
+    }
+  },
+  {
+    "repo": "eth-chain-swaps-monitor-overview",
+    "commit": "b1b68c48cc4526c5a0169f9242f9548781f1c743",
+    "overview": "https://github.com/logicencoder/eth-chain-swaps-monitor-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/eth-chain-swaps-monitor-overview/b1b68c48cc4526c5a0169f9242f9548781f1c743/assets/dashboard-featured-dark.png",
+      "alt": "Ethereum Chain Swap Monitor workspace",
+      "width": 1632,
+      "height": 1417,
+      "bytes": 445189
+    }
+  },
+  {
+    "repo": "eth-swaps-monitor-plugin-overview",
+    "commit": "4ebfaa3df0875b57f9f013e882e067fedce593eb",
+    "overview": "https://github.com/logicencoder/eth-swaps-monitor-plugin-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/eth-swaps-monitor-plugin-overview/4ebfaa3df0875b57f9f013e882e067fedce593eb/assets/overview-2026-10-24.png",
+      "alt": "Ethereum swap observations and quote tables",
+      "width": 1600,
+      "height": 900,
+      "bytes": 337914
+    }
+  },
+  {
+    "repo": "dynex-large-transactions-plugin-overview",
+    "commit": "e99192052aecbe8c2d1ad58488707738f2c47130",
+    "overview": "https://github.com/logicencoder/dynex-large-transactions-plugin-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/dynex-large-transactions-plugin-overview/e99192052aecbe8c2d1ad58488707738f2c47130/assets/live-transactions-expanded.png",
+      "alt": "Dynex Large Transactions workspace",
+      "width": 1259,
+      "height": 2884,
+      "bytes": 1101193
+    }
+  },
+  {
+    "repo": "dynex-0xdnx-dhip-richlist-plugin-overview",
+    "commit": "97da19059350cd1b8208ecc59136eccaa6766734",
+    "overview": "https://github.com/logicencoder/dynex-0xdnx-dhip-richlist-plugin-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/dynex-0xdnx-dhip-richlist-plugin-overview/97da19059350cd1b8208ecc59136eccaa6766734/assets/live-dashboard.png",
+      "alt": "0xDNX DHIP Richlist workspace",
+      "width": 1072,
+      "height": 1915,
+      "bytes": 315759
+    }
+  },
+  {
+    "repo": "dnx-mexc-in-out-overview",
+    "commit": "7774663881a246bef99df98ad71e41b9c7921c37",
+    "overview": "https://github.com/logicencoder/dnx-mexc-in-out-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/dnx-mexc-in-out-overview/7774663881a246bef99df98ad71e41b9c7921c37/assets/dnx-in-out-terminal.png",
+      "alt": "DNX MEXC In/Out Monitor workspace",
+      "width": 1600,
+      "height": 900,
+      "bytes": 113715
+    }
+  },
+  {
+    "repo": "multi-coin-monitor-overview",
+    "commit": "43580e084a26e52c4852631bb7200bfccbc038c0",
+    "overview": "https://github.com/logicencoder/multi-coin-monitor-overview",
+    "image": null
+  },
+  {
+    "repo": "mexc_trading_app-overview",
+    "commit": "441b2763b44f49baddb8cc01004afee260cc3056",
+    "overview": "https://github.com/logicencoder/mexc_trading_app-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/mexc_trading_app-overview/441b2763b44f49baddb8cc01004afee260cc3056/assets/trading-dashboard.png",
+      "alt": "MEXC Trading Dashboard workspace",
+      "width": 1366,
+      "height": 1952,
+      "bytes": 651326
+    }
+  },
+  {
+    "repo": "mexc-trading-dashboard-bot-suite-overview",
+    "commit": "ea12e63e377adaaf67e8cc43e211bcd74e6d89c2",
+    "overview": "https://github.com/logicencoder/mexc-trading-dashboard-bot-suite-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/mexc-trading-dashboard-bot-suite-overview/ea12e63e377adaaf67e8cc43e211bcd74e6d89c2/assets/bot-suite.png",
+      "alt": "MEXC Trading Dashboard and Bot Suite \u2014 chart, order book, and bot panels",
+      "width": 1600,
+      "height": 900,
+      "bytes": 248438
+    }
+  },
+  {
+    "repo": "cex-dex-arb-overview",
+    "commit": "26d8dcd9b0ddbe0259e36bc2064245119fbfc870",
+    "overview": "https://github.com/logicencoder/cex-dex-arb-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/cex-dex-arb-overview/26d8dcd9b0ddbe0259e36bc2064245119fbfc870/assets/cex-dex-arb.png",
+      "alt": "CEX/DEX Arbitrage Dashboard workspace",
+      "width": 1600,
+      "height": 900,
+      "bytes": 382426
+    }
+  },
+  {
+    "repo": "dex-swapper-overview",
+    "commit": "b219d456911567765919206377b4854446ba32fc",
+    "overview": "https://github.com/logicencoder/dex-swapper-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/dex-swapper-overview/b219d456911567765919206377b4854446ba32fc/assets/DNX-Trading-06-16-2026_06_55_PM.png",
+      "alt": "DEX Swapper workspace",
+      "width": 677,
+      "height": 1602,
+      "bytes": 423456
+    }
+  },
+  {
+    "repo": "dex-swapper-auto-overview",
+    "commit": "e6e9be5edf8731082d51d60a7fd658db88240650",
+    "overview": "https://github.com/logicencoder/dex-swapper-auto-overview",
+    "image": null
+  },
+  {
+    "repo": "sol-pump-app-overview",
+    "commit": "72d1c822024a8d41e8a3c982ad3e7da2f5fd992a",
+    "overview": "https://github.com/logicencoder/sol-pump-app-overview",
+    "image": null
+  },
+  {
+    "repo": "universal-service-manager-overview",
+    "commit": "209444730850bb782f36694619d20fc8860d4cc1",
+    "overview": "https://github.com/logicencoder/universal-service-manager-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/universal-service-manager-overview/209444730850bb782f36694619d20fc8860d4cc1/assets/services-grid.png",
+      "alt": "Service management workspace",
+      "width": 1915,
+      "height": 1022,
+      "bytes": 313197
+    }
+  },
+  {
+    "repo": "system-monitor-app-overview",
+    "commit": "be49b4bf896844d917bfb8cb8ea22c5fccf394df",
+    "overview": "https://github.com/logicencoder/system-monitor-app-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/system-monitor-app-overview/be49b4bf896844d917bfb8cb8ea22c5fccf394df/system-monitor-app.png",
+      "alt": "System Monitor App workspace",
+      "width": 1888,
+      "height": 971,
+      "bytes": 284197
+    }
+  },
+  {
+    "repo": "cfms-overview",
+    "commit": "a32d3e6f1d83e0f855d66760192294db251b0247",
+    "overview": "https://github.com/logicencoder/cfms-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/cfms-overview/a32d3e6f1d83e0f855d66760192294db251b0247/assets/cfms.png",
+      "alt": "CFMS \u2014 Cloudflare Management System workspace",
+      "width": 1600,
+      "height": 900,
+      "bytes": 104317
+    }
+  },
+  {
+    "repo": "le-cs-agent-overview",
+    "commit": "33c16246da1f205869bff43c4a66e378c4fbe05c",
+    "overview": "https://github.com/logicencoder/le-cs-agent-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/le-cs-agent-overview/33c16246da1f205869bff43c4a66e378c4fbe05c/assets/le-cs-agent.png",
+      "alt": "LE CS Agent \u2014 Coding Station workspace",
+      "width": 1600,
+      "height": 900,
+      "bytes": 73191
+    }
+  },
+  {
+    "repo": "le-karaoke-studio-overview",
+    "commit": "b15c69e6a475e44c9570e156fe5f35bfc4d20c99",
+    "overview": "https://github.com/logicencoder/le-karaoke-studio-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/le-karaoke-studio-overview/b15c69e6a475e44c9570e156fe5f35bfc4d20c99/assets/le-karaoke.png",
+      "alt": "LE Karaoke Studio workspace",
+      "width": 1600,
+      "height": 900,
+      "bytes": 114464
+    }
+  },
+  {
+    "repo": "ts-analyzer-overview",
+    "commit": "04bb9e59e5bb5a7bd7b51bd752498040d10c117a",
+    "overview": "https://github.com/logicencoder/ts-analyzer-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/ts-analyzer-overview/04bb9e59e5bb5a7bd7b51bd752498040d10c117a/assets/transport-analysis.png",
+      "alt": "TS Analyzer inspecting an actual receiver transport stream",
+      "width": 1600,
+      "height": 1100,
+      "bytes": 360474
+    }
+  },
+  {
+    "repo": "le-hscr-overview",
+    "commit": "d37489097287428d96e45406596934b4c2647e64",
+    "overview": "https://github.com/logicencoder/le-hscr-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/le-hscr-overview/d37489097287428d96e45406596934b4c2647e64/assets/le-hscr.png",
+      "alt": "LE HSCR \u2014 Radio Monitoring Workspace workspace",
+      "width": 1600,
+      "height": 900,
+      "bytes": 258467
+    }
+  },
+  {
+    "repo": "le-auto-record-overview",
+    "commit": "06a58ab7fb9c512a13e5d974b74cf56a815d9c5d",
+    "overview": "https://github.com/logicencoder/le-auto-record-overview",
+    "image": null
+  },
+  {
+    "repo": "roci-overview",
+    "commit": "5c63a058f55dff250ae12f6b56f52e3a50c0b220",
+    "overview": "https://github.com/logicencoder/roci-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/roci-overview/5c63a058f55dff250ae12f6b56f52e3a50c0b220/assets/overview-2026-10-24.png",
+      "alt": "Rocinante Explorer prototype preview with simulated ship systems",
+      "width": 1600,
+      "height": 1000,
+      "bytes": 842225
+    }
+  },
+  {
+    "repo": "roci-command-center-overview",
+    "commit": "2d3be993280b009b5906491285d661e56c91a76a",
+    "overview": "https://github.com/logicencoder/roci-command-center-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/roci-command-center-overview/2d3be993280b009b5906491285d661e56c91a76a/assets/overview-2026-10-24.png",
+      "alt": "Rocinante Command Center simulated navigation",
+      "width": 1600,
+      "height": 900,
+      "bytes": 780633
+    }
+  },
+  {
+    "repo": "logic-encoder-theme-overview",
+    "commit": "8245b30e27177a0edfde0716625d70ca52db05d6",
+    "overview": "https://github.com/logicencoder/logic-encoder-theme-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/logic-encoder-theme-overview/8245b30e27177a0edfde0716625d70ca52db05d6/theme.png",
+      "alt": "Logic Encoder Enhanced \u2014 WordPress Theme workspace",
+      "width": 1600,
+      "height": 900,
+      "bytes": 528746
+    }
+  },
+  {
+    "repo": "le-shop-plugin-overview",
+    "commit": "8b617fa7ae1a0ef72fbc192235c62beed2530996",
+    "overview": "https://github.com/logicencoder/le-shop-plugin-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/le-shop-plugin-overview/8b617fa7ae1a0ef72fbc192235c62beed2530996/applications.png",
+      "alt": "LE Shop \u2014 WordPress Product Catalogue workspace",
+      "width": 1600,
+      "height": 900,
+      "bytes": 533180
+    }
+  },
+  {
+    "repo": "le-crypto-app-store-overview",
+    "commit": "3bc8cc1b692d091d8d922168c8297fcb4bfe42f3",
+    "overview": "https://github.com/logicencoder/le-crypto-app-store-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/le-crypto-app-store-overview/3bc8cc1b692d091d8d922168c8297fcb4bfe42f3/assets/Le-CAS-Admin9.png",
+      "alt": "Product catalogue, basket, payment progress and completed delivery",
+      "width": 2265,
+      "height": 976,
+      "bytes": 204881
+    }
+  },
+  {
+    "repo": "logicencoder-login-system-plugin-overview",
+    "commit": "97094033d47478dc111579de443a699eafffd89d",
+    "overview": "https://github.com/logicencoder/logicencoder-login-system-plugin-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/logicencoder-login-system-plugin-overview/97094033d47478dc111579de443a699eafffd89d/login.png",
+      "alt": "Logic Encoder Login System workspace",
+      "width": 1600,
+      "height": 900,
+      "bytes": 336463
+    }
+  },
+  {
+    "repo": "wp-visitor-stats-plugin-overview",
+    "commit": "0f464c1738e9e5fb89d8f7dba68beaeb11c9a73e",
+    "overview": "https://github.com/logicencoder/wp-visitor-stats-plugin-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/wp-visitor-stats-plugin-overview/0f464c1738e9e5fb89d8f7dba68beaeb11c9a73e/assets/dashboard-dark.png",
+      "alt": "WP Visitor Stats workspace",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 216029
+    }
+  },
+  {
+    "repo": "le-settings-plugin-overview",
+    "commit": "dafeef15a4cc5b71b4fcb7001ae053934f149e60",
+    "overview": "https://github.com/logicencoder/le-settings-plugin-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/le-settings-plugin-overview/dafeef15a4cc5b71b4fcb7001ae053934f149e60/assets/featured-hero.png",
+      "alt": "LE Settings workspace",
+      "width": 1128,
+      "height": 657,
+      "bytes": 147156
+    }
+  },
+  {
+    "repo": "logicencoder-sitemap-manager-plugin-overview",
+    "commit": "15fb00b52d6e0481a1a1252f5db5880bf5c64d18",
+    "overview": "https://github.com/logicencoder/logicencoder-sitemap-manager-plugin-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/logicencoder-sitemap-manager-plugin-overview/15fb00b52d6e0481a1a1252f5db5880bf5c64d18/assets/sitemap-manager-xml.png",
+      "alt": "Logic Encoder Sitemap Manager workspace",
+      "width": 1600,
+      "height": 900,
+      "bytes": 172146
+    }
+  },
+  {
+    "repo": "le-digest-plugin-overview",
+    "commit": "9226ac4f337a63e43c0c3ab2fd1fc8803f28707f",
+    "overview": "https://github.com/logicencoder/le-digest-plugin-overview",
+    "image": {
+      "url": "https://raw.githubusercontent.com/logicencoder/le-digest-plugin-overview/9226ac4f337a63e43c0c3ab2fd1fc8803f28707f/assets/overview-2026-10-24.png",
+      "alt": "Example topic subscription form",
+      "width": 1572,
+      "height": 208,
+      "bytes": 21575
+    }
+  },
+  {
+    "repo": "useful-scripts-overview",
+    "commit": "a0d3fd3b6b2055d2d1b9bdeb251f29c58825589d",
+    "overview": "https://github.com/logicencoder/useful-scripts-overview",
+    "image": null
+  },
+  {
+    "repo": "cursor-health",
+    "commit": "a8ef402a5917c03c3f94ee5a0c6ed11b55d0df95",
+    "overview": "https://github.com/logicencoder/cursor-health",
+    "image": null
+  },
+  {
+    "repo": "satpi",
+    "commit": "bfd3de1f8ac8e4feb6ba1e4a6a55aac13319c32f",
+    "overview": "https://github.com/logicencoder/satpi",
+    "image": null
+  },
+  {
+    "repo": "technisat-skystar-usb-2-hd-ci-satip",
+    "commit": "abfde5e875e58fa64d6cf4089851448c58c34df9",
+    "overview": "https://github.com/logicencoder/technisat-skystar-usb-2-hd-ci-satip",
+    "image": null
+  },
+  {
+    "repo": "react-vite-architecture-for-dummies",
+    "commit": "30089174a2c98a1c7ea5415e5676b94259027293",
+    "overview": "https://github.com/logicencoder/react-vite-architecture-for-dummies",
+    "image": null
+  }
+]

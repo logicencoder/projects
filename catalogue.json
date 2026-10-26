@@ -1,0 +1,76 @@
+{
+  "groups": [
+    {"title":"Science, environment and public data", "items":[
+      {"repo":"celestial-lab-plugin-overview","name":"Celestial Lab","description":"Explore satellites, aurora models, solar observations, crews, exoplanets, asteroid encounters and launches in one interactive workspace.","live":"https://logicencoder.com/celestial-lab/"},
+      {"repo":"elec-prices-bridge-overview","name":"European Electricity Monitor","description":"Compare European electricity prices with demand, generation and cross-border market activity.","live":"https://logicencoder.com/european-electricity-monitor/"},
+      {"repo":"russian-dc-observatory-monitor-overview","name":"Russian DC Observatory","description":"Compare Russian Internet connectivity, service reports, infrastructure records and website-access observations while keeping sources and uncertainty visible.","live":"https://logicencoder.com/russian-dc-observatory/"},
+      {"repo":"air-quality-bridge-overview","name":"Slovak Air Quality Dashboard","description":"Explore monitoring-station readings, station history and geographic context for air quality in Slovakia."},
+      {"repo":"mil-flights-bridge-overview","name":"Military Flights Monitor","description":"Browse available public aircraft observations through a map, globe and searchable board; coverage depends on transmitted and available data."},
+      {"repo":"le-awair-monitor-dashboard-overview","name":"Awair Monitor Dashboard","description":"Compare indoor environmental measurements with trends and history from Awair Element devices."},
+      {"repo":"cve-watch-bridge-overview","name":"CVE Watch","description":"Browse selected CISA and NVD vulnerability information and open source records relevant to the technologies you follow."}
+    ]},
+    {"title":"Market intelligence and blockchain monitoring", "items":[
+      {"repo":"mexc-live-stats-plugin-overview","name":"MEXC Live Statistics","description":"Explore spot markets through charts, recent trading activity, analytics and a searchable coin catalogue.","related":["mexc-live-stats-backend-overview"]},
+      {"repo":"gate-live-stats-plugin-overview","name":"Gate Live Statistics","description":"Inspect Gate market prices, trade activity and analytics in an interactive market-information workspace.","related":["gate-live-stats-backend-overview"]},
+      {"repo":"xex-spread-bridge-overview","name":"XEX Spread Monitor","description":"Compare shared MEXC and Gate markets, price gaps, volume and historical context."},
+      {"repo":"deriv-board-bridge-overview","name":"Deriv Board","description":"Compare funding, open interest and trading volume across supported Binance and Bybit perpetual markets."},
+      {"repo":"eth-gas-live-plugin-overview","name":"ETH Gas Live","description":"Inspect Ethereum gas estimates, recent conditions, historical patterns and transaction-cost planning tools.","related":["eth-gas-live-backend-overview"]},
+      {"repo":"eth-chain-swaps-monitor-overview","name":"Ethereum Chain Swap Monitor","description":"Follow observed swaps, recurring addresses and comparison views in a focused on-chain investigation workspace."},
+      {"repo":"eth-swaps-monitor-plugin-overview","name":"Ethereum Swaps — WordPress Dashboard","description":"Explore published swap observations, recurring addresses and quote comparisons directly on the website."},
+      {"repo":"dynex-large-transactions-plugin-overview","name":"Dynex Large Transactions","description":"Follow large DNX transfers through summary figures, address search and transaction detail.","related":["dynex-large-transactions-monitor-overview"]},
+      {"repo":"dynex-0xdnx-dhip-richlist-plugin-overview","name":"0xDNX DHIP Richlist","description":"Explore wrapped Dynex holder rankings, balances and transactions with their chain context.","related":["dynex-0xdnx-dhip-richlist-monitor-overview"]},
+      {"repo":"dnx-mexc-in-out-overview","name":"DNX MEXC In/Out Monitor","description":"Inspect Dynex transfers associated with MEXC in a dedicated incoming/outgoing activity monitor."},
+      {"repo":"multi-coin-monitor-overview","name":"Multi-Coin Monitor","description":"Screen many MEXC spot listings and compare estimated CEX/DEX spreads. The DEX leg is simulated; this is a screening tool, not unattended execution."}
+    ]},
+    {"title":"Trading workstations", "items":[
+      {"repo":"mexc_trading_app-overview","name":"MEXC Trading App","description":"Bring market data, account context, manual orders and supported trading automation into one spot-trading workstation."},
+      {"repo":"mexc-trading-dashboard-bot-suite-overview","name":"MEXC Trading Dashboard & Bot Suite","description":"Manage manual spot trading, five automation modes, bot profiles and execution diagnostics in one workspace."},
+      {"repo":"cex-dex-arb-overview","name":"CEX/DEX Arbitrage Dashboard","description":"Compare exchange and decentralized market quotes at relevant trade sizes and inspect execution context before acting."},
+      {"repo":"dex-swapper-overview","name":"DEX Swapper","description":"Inspect a supported decentralized swap, its wallet context and execution controls in a dedicated trading console."},
+      {"repo":"dex-swapper-auto-overview","name":"DEX Swapper AUTO","description":"Combine supported DNX sale comparisons, manual controls, fees, wallet readiness and threshold-based automation."},
+      {"repo":"sol-pump-app-overview","name":"Sol Pump — Solana Trading Desk","description":"Investigate Solana token signals and watchlists with charts, manual Jupiter swaps and optional sniper controls."}
+    ]},
+    {"title":"Operator, media and developer workspaces", "items":[
+      {"repo":"universal-service-manager-overview","name":"Universal Service Manager","description":"Review services, inspect logs and control the application fleet from one operator workspace."},
+      {"repo":"system-monitor-app-overview","name":"System Monitor App","description":"Inspect host resources, processes and service information from a terminal dashboard."},
+      {"repo":"cfms-overview","name":"CFMS — Cloudflare Management System","description":"Review tunnels, DNS, security rules and logs together when maintaining site access and availability."},
+      {"repo":"le-cs-agent-overview","name":"LE CS Agent — Coding Station","description":"Keep multi-provider AI conversations, saved sessions and terminal work together in one coding station."},
+      {"repo":"le-karaoke-studio-overview","name":"LE Karaoke Studio","description":"Take media through transcription, karaoke/caption editing and rendering, with studio and repeatable automation workflows."},
+      {"repo":"ts-analyzer-overview","name":"TS Analyzer","description":"Select television sources, inspect transport streams and retain evidence for reception, tuning and stream-content investigations."},
+      {"repo":"le-hscr-overview","name":"LE HSCR — Radio Monitoring Workspace","description":"Bring Bluetooth, Wi-Fi and satellite inspection into one workspace for authorized radio and device investigations."},
+      {"repo":"le-auto-record-overview","name":"LE Auto Record","description":"Retain sufficiently watched OpenPLi programmes as normal recordings rather than losing them with the live buffer."}
+    ]},
+    {"title":"Interactive experiences", "items":[
+      {"repo":"roci-overview","name":"Rocinante Explorer","description":"Explore a fictional spacecraft interface and its simulated systems in an interactive prototype. Not real spacecraft telemetry."},
+      {"repo":"roci-command-center-overview","name":"Rocinante Command Center","description":"Explore a configurable fictional command deck with navigation, systems, crew and communications. All telemetry and contacts are simulated."}
+    ]},
+    {"title":"WordPress, publishing and commerce", "items":[
+      {"repo":"logic-encoder-theme-overview","name":"Logic Encoder Enhanced Theme","description":"Connect application pages, technical writing and member content through a configurable WordPress presentation."},
+      {"repo":"le-shop-plugin-overview","name":"LE Shop — Product Catalogue","description":"Maintain application descriptions and sales information in a WordPress catalogue connected to the store experience."},
+      {"repo":"le-crypto-app-store-overview","name":"Logic Encoder Crypto App Store","description":"Connect digital-product discovery, payment progress and delivery through Telegram and browser storefronts with an operator workspace."},
+      {"repo":"logicencoder-login-system-plugin-overview","name":"Logic Encoder Login System","description":"Support member registration, email verification, login, account recovery and access administration."},
+      {"repo":"wp-visitor-stats-plugin-overview","name":"WP Visitor Stats","description":"Review website visits, content use, campaign context and audience investigations from WordPress."},
+      {"repo":"le-settings-plugin-overview","name":"LE Settings","description":"Review supported site protection, notifications and publishing-related preferences in one administration console."},
+      {"repo":"logicencoder-sitemap-manager-plugin-overview","name":"Logic Encoder Sitemap Manager","description":"Control sitemap inclusion, exclusions and update schedules as the WordPress site grows."},
+      {"repo":"le-digest-plugin-overview","name":"LE Digest — Subscriptions and Reports","description":"Connect selected-topic subscriptions, downloadable resources and recurring reports for readers."}
+    ]},
+    {"title":"Utilities and engineering references", "items":[
+      {"repo":"useful-scripts-overview","name":"Useful Scripts","description":"A development toolbox of local market-data prototypes, diagnostic helpers and small scripts; not a single dashboard product."},
+      {"repo":"cursor-health","name":"Cursor Health","description":"Clean up oversized IDE agent logs and old sessions on Linux and WSL."},
+      {"repo":"satpi","name":"SatPI — Logic Encoder fork","description":"Serve television sources over SAT>IP with the documented receiver-specific compatibility work."},
+      {"repo":"technisat-skystar-usb-2-hd-ci-satip","name":"TechniSat SkyStar USB 2 HD CI / SAT>IP","description":"Document and retain the Linux driver and SAT>IP compatibility work for a specific television receiver."},
+      {"repo":"react-vite-architecture-for-dummies","name":"React + Vite Architecture Guide","description":"A plain-English reference explaining the roles of files in a React and Vite project."}
+    ]}
+  ],
+  "additional": [
+    {"name":"DNX Bridge","description":"Prepare and inspect bridge claims, review available capacity and control supported automatic claiming."},
+    {"name":"Dynex MEXC Balance Monitor","description":"Inspect published Dynex exchange in/out activity, balances and related analytics."},
+    {"name":"DNX Chain Checker","description":"Follow DNX-related swaps, transfers and monitored-wallet activity in a terminal workspace."},
+    {"name":"Basic CEX/DEX Comparator","description":"Compare DNX exchange trades with decentralized quotes at different trade sizes, with gas-cost context."},
+    {"name":"Chain Watchers","description":"A toolkit for monitoring Ethereum swap activity."},
+    {"name":"Proxy Pool Monitor","description":"Review the availability and health of a shared fallback proxy pool."},
+    {"name":"MT5 Fleet Tools","description":"Operate and maintain MetaTrader 5 strategy-testing worker environments."},
+    {"name":"Tokyo VPN","description":"Control a WireGuard client through a desktop window and tray interface."},
+    {"name":"Red-Team Lite","description":"Run authorized web-application security checks and retain browser evidence and reports."}
+  ]
+}

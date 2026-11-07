@@ -13,6 +13,33 @@
      }
     },
     {
+     "name": "Logic Encoder Crypto App Store",
+     "description": "Connect digital-product discovery, payment progress and delivery through Telegram and browser storefronts with an operator workspace.",
+     "repo": "le-crypto-app-store-overview",
+     "image": {
+      "path": "assets/crypto-app-store-catalogue-basket-payment-delivery.png",
+      "alt": "Crypto App Store catalogue, basket, payment progress and completed delivery"
+     }
+    },
+    {
+     "name": "Rocinante Command Center",
+     "description": "Explore a configurable fictional command deck with navigation, systems, crew and communications. All telemetry and contacts are simulated.",
+     "repo": "roci-command-center-overview",
+     "image": {
+      "path": "assets/rocinante-command-center-solar-system-tactical-deck.png",
+      "alt": "Rocinante Command Center simulated navigation"
+     }
+    },
+    {
+     "name": "Logic Encoder Work Brain",
+     "description": "Turn a body of work into a searchable wiki and an explorable 3D knowledge graph, and let an AI assistant answer from a small reviewed packet of notes.",
+     "repo": "second-brain-overview",
+     "image": {
+      "path": "assets/logic-encoder-work-brain-3d-knowledge-graph.png",
+      "alt": "Logic Encoder Work Brain 3D knowledge graph"
+     }
+    },
+    {
      "name": "MEXC Trading App",
      "description": "Bring market data, account context, manual orders and supported trading automation into one spot-trading workstation.",
      "repo": "mexc_trading_app-overview",
@@ -26,8 +53,8 @@
      "description": "Take media through transcription, karaoke/caption editing and rendering, with studio and repeatable automation workflows.",
      "repo": "le-karaoke-studio-overview",
      "image": {
-      "path": "assets/le-karaoke-studio-transcription-caption-editor.png",
-      "alt": "LE Karaoke Studio transcription and caption editor"
+      "path": "assets/le-karaoke-studio-audio-effects-spectrum-visualiser-presets.png",
+      "alt": "LE Karaoke Studio with audio effects, spectrum and visualiser presets"
      }
     },
     {
@@ -49,15 +76,6 @@
      }
     },
     {
-     "name": "Logic Encoder Crypto App Store",
-     "description": "Connect digital-product discovery, payment progress and delivery through Telegram and browser storefronts with an operator workspace.",
-     "repo": "le-crypto-app-store-overview",
-     "image": {
-      "path": "assets/crypto-app-store-catalogue-basket-payment-delivery.png",
-      "alt": "Crypto App Store catalogue, basket, payment progress and completed delivery"
-     }
-    },
-    {
      "name": "System Monitor App",
      "description": "Inspect host resources, processes and service information from a terminal dashboard.",
      "repo": "system-monitor-app-overview",
@@ -72,8 +90,8 @@
      "repo": "celestial-lab-plugin-overview",
      "live": "https://logicencoder.com/celestial-lab/",
      "image": {
-      "path": "assets/features-2026-10-26/celestial-lab-weather-aurora.png",
-      "alt": "Celestial Lab 3D aurora forecast over a night-side Earth"
+      "path": "assets/celestial-lab-satellite-map-3d-globe-orbits.png",
+      "alt": "Celestial Lab satellite map with a 3D globe of orbiting objects"
      }
     }
    ]
@@ -107,13 +125,12 @@
      ]
     },
     {
-     "name": "European Electricity Monitor",
-     "description": "Compare European electricity prices with demand, generation and cross-border market activity.",
-     "repo": "elec-prices-bridge-overview",
-     "live": "https://logicencoder.com/european-electricity-monitor/",
+     "name": "Le Sound Normalizer",
+     "description": "Keep loud scenes from overpowering quiet dialogue with a Windows audio tool offering live meters, a compressor, a 15-band equalizer and spectrum and waveform views.",
+     "repo": "le-sound-normalizer-overview",
      "image": {
-      "path": "assets/european-electricity-monitor-day-ahead-prices-heatmap.png",
-      "alt": "European Electricity Monitor price map with demand and generation panels"
+      "path": "assets/le-sound-normalizer-cyan-theme-meters-spectrum-oscilloscope.png",
+      "alt": "Le Sound Normalizer cyan theme with meters, spectrum, oscilloscope and equalizer"
      }
     },
     {
@@ -121,17 +138,17 @@
      "description": "Follow observed swaps, recurring addresses and comparison views in a focused on-chain investigation workspace.",
      "repo": "eth-chain-swaps-monitor-overview",
      "image": {
-      "path": "assets/eth-chain-swap-monitor-live-swap-feed-dashboard.png",
-      "alt": "Ethereum Chain Swap Monitor live swap feed"
+      "path": "assets/eth-chain-swap-monitor-pool-liquidity-breakdown-swap-detail.png",
+      "alt": "Ethereum Chain Swap Monitor swap detail with pool liquidity breakdown"
      }
     },
     {
-     "name": "CVE DoS",
-     "description": "Search and browse CISA and NVD vulnerability records by product and technology; being developed into a professional security CVE search application.",
-     "repo": "cve-watch-bridge-overview",
+     "name": "CEX/DEX Arbitrage App",
+     "description": "Compare exchange and decentralized market quotes at relevant trade sizes, scan many pairs for profitable routes and inspect execution context before acting.",
+     "repo": "cex-dex-arb-overview",
      "image": {
-      "path": "assets/cve-watch-vulnerability-list-cisa-nvd.png",
-      "alt": "CVE DoS vulnerability list from CISA and NVD records"
+      "path": "assets/cex-dex-arbitrage-app-pool-discovery-arb-scanner-trading-rules.png",
+      "alt": "CEX/DEX Arbitrage App with pool discovery, arbitrage scanner and trading rules"
      }
     },
     {
@@ -145,11 +162,6 @@
      "repo": "le-media-player-overview"
     },
     {
-     "name": "DNX MEXC In/Out Monitor",
-     "description": "Inspect Dynex transfers associated with MEXC in a dedicated incoming/outgoing activity monitor.",
-     "repo": "dnx-mexc-in-out-overview"
-    },
-    {
      "name": "Dynex MEXC Balance Monitor",
      "description": "Inspect published Dynex exchange in/out activity, balances and related analytics.",
      "live": "https://logicencoder.com/dynex-mexc-balance-monitor/",
@@ -158,11 +170,6 @@
       "path": "assets/dynex-mexc-balance-monitor-live-dashboard-in-out-charts.png",
       "alt": "Dynex MEXC Balance Monitor dashboard with balance, in and out charts and transaction feed"
      }
-    },
-    {
-     "name": "Basic CEX/DEX Comparator",
-     "description": "Compare DNX exchange trades with decentralized quotes at different trade sizes, with gas-cost context.",
-     "repo": "basic-cex-dex-comparator-overview"
     },
     {
      "name": "TS Analyzer",
@@ -192,24 +199,6 @@
      }
     },
     {
-     "name": "CFMS — Cloudflare Management System",
-     "description": "Review tunnels, DNS, security rules and logs together when maintaining site access and availability.",
-     "repo": "cfms-overview",
-     "image": {
-      "path": "assets/cfms-cloudflare-management-tunnels-dns-security.png",
-      "alt": "CFMS Cloudflare management workspace with tunnels, DNS and security rules"
-     }
-    },
-    {
-     "name": "Rocinante Command Center",
-     "description": "Explore a configurable fictional command deck with navigation, systems, crew and communications. All telemetry and contacts are simulated.",
-     "repo": "roci-command-center-overview",
-     "image": {
-      "path": "assets/rocinante-command-center-solar-system-tactical-deck.png",
-      "alt": "Rocinante Command Center simulated navigation"
-     }
-    },
-    {
      "name": "Russian DC Observatory",
      "description": "Compare Russian Internet connectivity, service reports, infrastructure records and website-access observations while keeping sources and uncertainty visible.",
      "repo": "russian-dc-observatory-monitor-overview",
@@ -226,15 +215,6 @@
      "image": {
       "path": "assets/awair-monitor-dashboard-air-quality-score-trend-history.png",
       "alt": "Awair environmental metrics and measurement history"
-     }
-    },
-    {
-     "name": "Military Flights Monitor",
-     "description": "Browse available public aircraft observations through a map, globe and searchable board; coverage depends on transmitted and available data.",
-     "repo": "mil-flights-bridge-overview",
-     "image": {
-      "path": "assets/military-flights-monitor-live-ads-b-globe-aircraft-details.png",
-      "alt": "Military Flights Monitor aircraft board"
      }
     },
     {
@@ -284,7 +264,6 @@
   },
   {
    "title": "Prototypes, skeletons and unfinished work",
-   "linkonly": true,
    "items": [
     {
      "name": "XEX Spread Monitor",
@@ -312,10 +291,27 @@
      "repo": "logicencoder-login-system-plugin-overview"
     },
     {
+     "name": "European Electricity Monitor",
+     "description": "Compare European electricity prices with demand, generation and cross-border market activity.",
+     "repo": "elec-prices-bridge-overview",
+     "live": "https://logicencoder.com/european-electricity-monitor/"
+    },
+    {
+     "name": "CVE DoS",
+     "description": "Search and browse CISA and NVD vulnerability records by product and technology; being developed into a professional security CVE search application.",
+     "repo": "cve-watch-bridge-overview"
+    },
+    {
+     "name": "Military Flights Monitor",
+     "description": "Browse available public aircraft observations through a map, globe and searchable board; coverage depends on transmitted and available data.",
+     "repo": "mil-flights-bridge-overview"
+    },
+    {
      "name": "Application boilerplates",
      "description": "Starting skeletons for chain monitors, real-time FastAPI services, operator web apps, product pairs, Telegram mini apps, terminal dashboards, service-manager services and WordPress plugins."
     }
-   ]
+   ],
+   "linkonly": true
   }
  ]
 }

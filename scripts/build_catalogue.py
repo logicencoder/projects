@@ -15,12 +15,8 @@ def render():
     cat=json.loads((ROOT/'catalogue.json').read_text())
     previews={p['repo']:p for p in json.loads((ROOT/'previews.json').read_text())}
     lines=['# Logic Encoder — Projects','',
-        'A visual catalogue of applications, dashboards, operator tools and engineering projects built by Logic Encoder. Browse a short summary here, then open the product presentation for its capabilities, source context and additional views.','',
-        '[Website](https://logicencoder.com) · [Web applications](https://logicencoder.com/applications/) · [Contact](https://logicencoder.com/contact/)','',
-        '## Browse','']
-    for s in cat['sections']:
-        lines.append(f"- [{s['title']}](#{anchor(s['title'])}) — {len(s['items'])} projects")
-    lines+=['','Screenshots are historical views of the actual products, not promises of current readings. Product presentations describe limitations and availability. Fictional spacecraft experiences are explicitly identified as simulations.','']
+        'A visual catalogue of applications, dashboards, operator tools and engineering projects built by Logic Encoder. Each entry gives a short summary and links to its product presentation for its capabilities, source context and additional views.','',
+        '[Website](https://logicencoder.com) · [Web applications](https://logicencoder.com/applications/) · [Contact](https://logicencoder.com/contact/)','']
     for s in cat['sections']:
         lines+=['## '+s['title'],'']
         for item in s['items']:

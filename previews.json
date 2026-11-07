@@ -12,6 +12,42 @@
   }
  },
  {
+  "repo": "le-crypto-app-store-overview",
+  "overview": "https://github.com/logicencoder/le-crypto-app-store-overview",
+  "commit": "a273c0866b31eca342d3e34f0c1d2db2358c27f8",
+  "image": {
+   "url": "https://raw.githubusercontent.com/logicencoder/le-crypto-app-store-overview/a273c0866b31eca342d3e34f0c1d2db2358c27f8/assets/crypto-app-store-catalogue-basket-payment-delivery.png",
+   "alt": "Crypto App Store catalogue, basket, payment progress and completed delivery",
+   "width": 2265,
+   "height": 976,
+   "bytes": 204881
+  }
+ },
+ {
+  "repo": "roci-command-center-overview",
+  "overview": "https://github.com/logicencoder/roci-command-center-overview",
+  "commit": "76d1af1701427683a75136a5c288d2611a859333",
+  "image": {
+   "url": "https://raw.githubusercontent.com/logicencoder/roci-command-center-overview/76d1af1701427683a75136a5c288d2611a859333/assets/rocinante-command-center-solar-system-tactical-deck.png",
+   "alt": "Rocinante Command Center simulated navigation",
+   "width": 1911,
+   "height": 860,
+   "bytes": 1111296
+  }
+ },
+ {
+  "repo": "second-brain-overview",
+  "overview": "https://github.com/logicencoder/second-brain-overview",
+  "commit": "ade90436790d039dca7ef10b3221989c35a76dea",
+  "image": {
+   "url": "https://raw.githubusercontent.com/logicencoder/second-brain-overview/ade90436790d039dca7ef10b3221989c35a76dea/assets/logic-encoder-work-brain-3d-knowledge-graph.png",
+   "alt": "Logic Encoder Work Brain 3D knowledge graph",
+   "width": 1912,
+   "height": 868,
+   "bytes": 446905
+  }
+ },
+ {
   "repo": "mexc_trading_app-overview",
   "overview": "https://github.com/logicencoder/mexc_trading_app-overview",
   "commit": "dd9549029e9df57291c5233b25f024d7bc80e2d9",
@@ -26,13 +62,13 @@
  {
   "repo": "le-karaoke-studio-overview",
   "overview": "https://github.com/logicencoder/le-karaoke-studio-overview",
-  "commit": "0b4b45500decb0f33658f097f8760744c2cd517f",
+  "commit": "561194e9e5a3a38f325f67aa1d544cf1edc19ae3",
   "image": {
-   "url": "https://raw.githubusercontent.com/logicencoder/le-karaoke-studio-overview/0b4b45500decb0f33658f097f8760744c2cd517f/assets/le-karaoke-studio-transcription-caption-editor.png",
-   "alt": "LE Karaoke Studio transcription and caption editor",
-   "width": 1600,
-   "height": 900,
-   "bytes": 114464
+   "url": "https://raw.githubusercontent.com/logicencoder/le-karaoke-studio-overview/561194e9e5a3a38f325f67aa1d544cf1edc19ae3/assets/le-karaoke-studio-audio-effects-spectrum-visualiser-presets.png",
+   "alt": "LE Karaoke Studio with audio effects, spectrum and visualiser presets",
+   "width": 1907,
+   "height": 871,
+   "bytes": 687960
   }
  },
  {
@@ -60,18 +96,6 @@
   }
  },
  {
-  "repo": "le-crypto-app-store-overview",
-  "overview": "https://github.com/logicencoder/le-crypto-app-store-overview",
-  "commit": "a273c0866b31eca342d3e34f0c1d2db2358c27f8",
-  "image": {
-   "url": "https://raw.githubusercontent.com/logicencoder/le-crypto-app-store-overview/a273c0866b31eca342d3e34f0c1d2db2358c27f8/assets/crypto-app-store-catalogue-basket-payment-delivery.png",
-   "alt": "Crypto App Store catalogue, basket, payment progress and completed delivery",
-   "width": 2265,
-   "height": 976,
-   "bytes": 204881
-  }
- },
- {
   "repo": "system-monitor-app-overview",
   "overview": "https://github.com/logicencoder/system-monitor-app-overview",
   "commit": "d254228adc2cccd1bde1f951493a704bdd7c1990",
@@ -86,13 +110,13 @@
  {
   "repo": "celestial-lab-plugin-overview",
   "overview": "https://github.com/logicencoder/celestial-lab-plugin-overview",
-  "commit": "3cae9acf74c14aaf08038507de4b805695e97a0c",
+  "commit": "7f6071409585562b81905d3f5b3d09d95d2b7204",
   "image": {
-   "url": "https://raw.githubusercontent.com/logicencoder/celestial-lab-plugin-overview/3cae9acf74c14aaf08038507de4b805695e97a0c/assets/features-2026-10-26/celestial-lab-weather-aurora.png",
-   "alt": "Celestial Lab 3D aurora forecast over a night-side Earth",
-   "width": 1600,
-   "height": 1000,
-   "bytes": 311592
+   "url": "https://raw.githubusercontent.com/logicencoder/celestial-lab-plugin-overview/7f6071409585562b81905d3f5b3d09d95d2b7204/assets/celestial-lab-satellite-map-3d-globe-orbits.png",
+   "alt": "Celestial Lab satellite map with a 3D globe of orbiting objects",
+   "width": 1908,
+   "height": 862,
+   "bytes": 1018478
   }
  },
  {
@@ -120,39 +144,39 @@
   }
  },
  {
-  "repo": "elec-prices-bridge-overview",
-  "overview": "https://github.com/logicencoder/elec-prices-bridge-overview",
-  "commit": "5bb201f393fe6bed6e5927512215643f69fcecef",
+  "repo": "le-sound-normalizer-overview",
+  "overview": "https://github.com/logicencoder/le-sound-normalizer-overview",
+  "commit": "7344dee31d360d8ccbcd3850b46fb6ba634ed37f",
   "image": {
-   "url": "https://raw.githubusercontent.com/logicencoder/elec-prices-bridge-overview/5bb201f393fe6bed6e5927512215643f69fcecef/assets/european-electricity-monitor-day-ahead-prices-heatmap.png",
-   "alt": "European Electricity Monitor price map with demand and generation panels",
-   "width": 1898,
-   "height": 888,
-   "bytes": 270551
+   "url": "https://raw.githubusercontent.com/logicencoder/le-sound-normalizer-overview/7344dee31d360d8ccbcd3850b46fb6ba634ed37f/assets/le-sound-normalizer-cyan-theme-meters-spectrum-oscilloscope.png",
+   "alt": "Le Sound Normalizer cyan theme with meters, spectrum, oscilloscope and equalizer",
+   "width": 677,
+   "height": 1016,
+   "bytes": 185487
   }
  },
  {
   "repo": "eth-chain-swaps-monitor-overview",
   "overview": "https://github.com/logicencoder/eth-chain-swaps-monitor-overview",
-  "commit": "a8ff1b28d60786e28350969a3912a186097bc907",
+  "commit": "8fe4193f20b100d6523d750b175e89951727ae87",
   "image": {
-   "url": "https://raw.githubusercontent.com/logicencoder/eth-chain-swaps-monitor-overview/a8ff1b28d60786e28350969a3912a186097bc907/assets/eth-chain-swap-monitor-live-swap-feed-dashboard.png",
-   "alt": "Ethereum Chain Swap Monitor live swap feed",
-   "width": 1600,
-   "height": 900,
-   "bytes": 285964
+   "url": "https://raw.githubusercontent.com/logicencoder/eth-chain-swaps-monitor-overview/8fe4193f20b100d6523d750b175e89951727ae87/assets/eth-chain-swap-monitor-pool-liquidity-breakdown-swap-detail.png",
+   "alt": "Ethereum Chain Swap Monitor swap detail with pool liquidity breakdown",
+   "width": 1356,
+   "height": 2431,
+   "bytes": 641156
   }
  },
  {
-  "repo": "cve-watch-bridge-overview",
-  "overview": "https://github.com/logicencoder/cve-watch-bridge-overview",
-  "commit": "11518b39461c1877b61f84ed04c5fc6e160ea58f",
+  "repo": "cex-dex-arb-overview",
+  "overview": "https://github.com/logicencoder/cex-dex-arb-overview",
+  "commit": "0cda00083214e115898cba917def91ef06a3f096",
   "image": {
-   "url": "https://raw.githubusercontent.com/logicencoder/cve-watch-bridge-overview/11518b39461c1877b61f84ed04c5fc6e160ea58f/assets/cve-watch-vulnerability-list-cisa-nvd.png",
-   "alt": "CVE DoS vulnerability list from CISA and NVD records",
-   "width": 1600,
-   "height": 900,
-   "bytes": 99549
+   "url": "https://raw.githubusercontent.com/logicencoder/cex-dex-arb-overview/0cda00083214e115898cba917def91ef06a3f096/assets/cex-dex-arbitrage-app-pool-discovery-arb-scanner-trading-rules.png",
+   "alt": "CEX/DEX Arbitrage App with pool discovery, arbitrage scanner and trading rules",
+   "width": 1705,
+   "height": 2141,
+   "bytes": 806853
   }
  },
  {
@@ -162,10 +186,6 @@
  {
   "repo": "le-media-player-overview",
   "overview": "https://github.com/logicencoder/le-media-player-overview"
- },
- {
-  "repo": "dnx-mexc-in-out-overview",
-  "overview": "https://github.com/logicencoder/dnx-mexc-in-out-overview"
  },
  {
   "repo": "dynex-mexc-balance-monitor-plugin-overview",
@@ -178,10 +198,6 @@
    "height": 2574,
    "bytes": 988073
   }
- },
- {
-  "repo": "basic-cex-dex-comparator-overview",
-  "overview": "https://github.com/logicencoder/basic-cex-dex-comparator-overview"
  },
  {
   "repo": "ts-analyzer-overview",
@@ -220,30 +236,6 @@
   }
  },
  {
-  "repo": "cfms-overview",
-  "overview": "https://github.com/logicencoder/cfms-overview",
-  "commit": "3e2f25b76398f3310cbd345df1450231c7b36546",
-  "image": {
-   "url": "https://raw.githubusercontent.com/logicencoder/cfms-overview/3e2f25b76398f3310cbd345df1450231c7b36546/assets/cfms-cloudflare-management-tunnels-dns-security.png",
-   "alt": "CFMS Cloudflare management workspace with tunnels, DNS and security rules",
-   "width": 1600,
-   "height": 900,
-   "bytes": 104317
-  }
- },
- {
-  "repo": "roci-command-center-overview",
-  "overview": "https://github.com/logicencoder/roci-command-center-overview",
-  "commit": "76d1af1701427683a75136a5c288d2611a859333",
-  "image": {
-   "url": "https://raw.githubusercontent.com/logicencoder/roci-command-center-overview/76d1af1701427683a75136a5c288d2611a859333/assets/rocinante-command-center-solar-system-tactical-deck.png",
-   "alt": "Rocinante Command Center simulated navigation",
-   "width": 1911,
-   "height": 860,
-   "bytes": 1111296
-  }
- },
- {
   "repo": "russian-dc-observatory-monitor-overview",
   "overview": "https://github.com/logicencoder/russian-dc-observatory-monitor-overview"
  },
@@ -257,18 +249,6 @@
    "width": 1936,
    "height": 3485,
    "bytes": 729605
-  }
- },
- {
-  "repo": "mil-flights-bridge-overview",
-  "overview": "https://github.com/logicencoder/mil-flights-bridge-overview",
-  "commit": "3c702c6275c03db0ceeb3ba9c9ff387d2e40c6ee",
-  "image": {
-   "url": "https://raw.githubusercontent.com/logicencoder/mil-flights-bridge-overview/3c702c6275c03db0ceeb3ba9c9ff387d2e40c6ee/assets/military-flights-monitor-live-ads-b-globe-aircraft-details.png",
-   "alt": "Military Flights Monitor aircraft board",
-   "width": 1911,
-   "height": 816,
-   "bytes": 454271
   }
  },
  {
@@ -330,5 +310,17 @@
  {
   "repo": "logicencoder-login-system-plugin-overview",
   "overview": "https://github.com/logicencoder/logicencoder-login-system-plugin-overview"
+ },
+ {
+  "repo": "elec-prices-bridge-overview",
+  "overview": "https://github.com/logicencoder/elec-prices-bridge-overview"
+ },
+ {
+  "repo": "cve-watch-bridge-overview",
+  "overview": "https://github.com/logicencoder/cve-watch-bridge-overview"
+ },
+ {
+  "repo": "mil-flights-bridge-overview",
+  "overview": "https://github.com/logicencoder/mil-flights-bridge-overview"
  }
 ]

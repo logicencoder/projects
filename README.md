@@ -1,17 +1,8 @@
 # Logic Encoder — Projects
 
-A visual catalogue of applications, dashboards, operator tools and engineering projects built by Logic Encoder. Browse a short summary here, then open the product presentation for its capabilities, source context and additional views.
+A visual catalogue of applications, dashboards, operator tools and engineering projects built by Logic Encoder. Each entry gives a short summary and links to its product presentation for its capabilities, source context and additional views.
 
 [Website](https://logicencoder.com) · [Web applications](https://logicencoder.com/applications/) · [Contact](https://logicencoder.com/contact/)
-
-## Browse
-
-- [Applications](#applications) — 8 projects
-- [More applications](#more-applications) — 20 projects
-- [Engineering notes](#engineering-notes) — 2 projects
-- [Prototypes, skeletons and unfinished work](#prototypes-skeletons-and-unfinished-work) — 6 projects
-
-Screenshots are historical views of the actual products, not promises of current readings. Product presentations describe limitations and availability. Fictional spacecraft experiences are explicitly identified as simulations.
 
 ## Applications
 
@@ -22,6 +13,30 @@ Review services, inspect logs and control the application fleet from one operato
 [Overview](https://github.com/logicencoder/universal-service-manager-overview)
 
 ![Universal Service Manager services grid with status, logs and lifecycle controls](https://raw.githubusercontent.com/logicencoder/universal-service-manager-overview/69911dc6b38ee5e5ab071ca3b6847aa15666f0e0/assets/universal-service-manager-services-grid.png)
+
+### Logic Encoder Crypto App Store
+
+Connect digital-product discovery, payment progress and delivery through Telegram and browser storefronts with an operator workspace.
+
+[Overview](https://github.com/logicencoder/le-crypto-app-store-overview)
+
+![Crypto App Store catalogue, basket, payment progress and completed delivery](https://raw.githubusercontent.com/logicencoder/le-crypto-app-store-overview/a273c0866b31eca342d3e34f0c1d2db2358c27f8/assets/crypto-app-store-catalogue-basket-payment-delivery.png)
+
+### Rocinante Command Center
+
+Explore a configurable fictional command deck with navigation, systems, crew and communications. All telemetry and contacts are simulated.
+
+[Overview](https://github.com/logicencoder/roci-command-center-overview)
+
+![Rocinante Command Center simulated navigation](https://raw.githubusercontent.com/logicencoder/roci-command-center-overview/76d1af1701427683a75136a5c288d2611a859333/assets/rocinante-command-center-solar-system-tactical-deck.png)
+
+### Logic Encoder Work Brain
+
+Turn a body of work into a searchable wiki and an explorable 3D knowledge graph, and let an AI assistant answer from a small reviewed packet of notes.
+
+[Overview](https://github.com/logicencoder/second-brain-overview)
+
+![Logic Encoder Work Brain 3D knowledge graph](https://raw.githubusercontent.com/logicencoder/second-brain-overview/ade90436790d039dca7ef10b3221989c35a76dea/assets/logic-encoder-work-brain-3d-knowledge-graph.png)
 
 ### MEXC Trading App
 
@@ -37,7 +52,7 @@ Take media through transcription, karaoke/caption editing and rendering, with st
 
 [Overview](https://github.com/logicencoder/le-karaoke-studio-overview)
 
-![LE Karaoke Studio transcription and caption editor](https://raw.githubusercontent.com/logicencoder/le-karaoke-studio-overview/0b4b45500decb0f33658f097f8760744c2cd517f/assets/le-karaoke-studio-transcription-caption-editor.png)
+![LE Karaoke Studio with audio effects, spectrum and visualiser presets](https://raw.githubusercontent.com/logicencoder/le-karaoke-studio-overview/561194e9e5a3a38f325f67aa1d544cf1edc19ae3/assets/le-karaoke-studio-audio-effects-spectrum-visualiser-presets.png)
 
 ### LE HSCR — Radio Monitoring Workspace
 
@@ -55,14 +70,6 @@ Review website visits, content use, campaign context and audience investigations
 
 ![WP Visitor Stats dashboard with visits, content and audience panels](https://raw.githubusercontent.com/logicencoder/wp-visitor-stats-plugin-overview/573c313132c88976cf8010599765a73789680ce2/assets/wp-visitor-stats-dashboard-dark.png)
 
-### Logic Encoder Crypto App Store
-
-Connect digital-product discovery, payment progress and delivery through Telegram and browser storefronts with an operator workspace.
-
-[Overview](https://github.com/logicencoder/le-crypto-app-store-overview)
-
-![Crypto App Store catalogue, basket, payment progress and completed delivery](https://raw.githubusercontent.com/logicencoder/le-crypto-app-store-overview/a273c0866b31eca342d3e34f0c1d2db2358c27f8/assets/crypto-app-store-catalogue-basket-payment-delivery.png)
-
 ### System Monitor App
 
 Inspect host resources, processes and service information from a terminal dashboard.
@@ -77,7 +84,7 @@ Explore satellites, aurora models, solar observations, crews, exoplanets, astero
 
 [Overview](https://github.com/logicencoder/celestial-lab-plugin-overview) · [Open application](https://logicencoder.com/celestial-lab/)
 
-![Celestial Lab 3D aurora forecast over a night-side Earth](https://raw.githubusercontent.com/logicencoder/celestial-lab-plugin-overview/3cae9acf74c14aaf08038507de4b805695e97a0c/assets/features-2026-10-26/celestial-lab-weather-aurora.png)
+![Celestial Lab satellite map with a 3D globe of orbiting objects](https://raw.githubusercontent.com/logicencoder/celestial-lab-plugin-overview/7f6071409585562b81905d3f5b3d09d95d2b7204/assets/celestial-lab-satellite-map-3d-globe-orbits.png)
 
 ## More applications
 
@@ -97,13 +104,13 @@ Explore spot markets through charts, recent trading activity, analytics and a se
 
 ![MEXC Live Statistics dashboard with market trades and analytics](https://raw.githubusercontent.com/logicencoder/mexc-live-stats-plugin-overview/f6dcf708abb56af0f24a134d11fda7ed140583f7/assets/mexc-live-statistics-live-dashboard-market-trades.png)
 
-### European Electricity Monitor
+### Le Sound Normalizer
 
-Compare European electricity prices with demand, generation and cross-border market activity.
+Keep loud scenes from overpowering quiet dialogue with a Windows audio tool offering live meters, a compressor, a 15-band equalizer and spectrum and waveform views.
 
-[Overview](https://github.com/logicencoder/elec-prices-bridge-overview) · [Open application](https://logicencoder.com/european-electricity-monitor/)
+[Overview](https://github.com/logicencoder/le-sound-normalizer-overview)
 
-![European Electricity Monitor price map with demand and generation panels](https://raw.githubusercontent.com/logicencoder/elec-prices-bridge-overview/5bb201f393fe6bed6e5927512215643f69fcecef/assets/european-electricity-monitor-day-ahead-prices-heatmap.png)
+![Le Sound Normalizer cyan theme with meters, spectrum, oscilloscope and equalizer](https://raw.githubusercontent.com/logicencoder/le-sound-normalizer-overview/7344dee31d360d8ccbcd3850b46fb6ba634ed37f/assets/le-sound-normalizer-cyan-theme-meters-spectrum-oscilloscope.png)
 
 ### Ethereum Chain Swap Monitor
 
@@ -111,15 +118,15 @@ Follow observed swaps, recurring addresses and comparison views in a focused on-
 
 [Overview](https://github.com/logicencoder/eth-chain-swaps-monitor-overview)
 
-![Ethereum Chain Swap Monitor live swap feed](https://raw.githubusercontent.com/logicencoder/eth-chain-swaps-monitor-overview/a8ff1b28d60786e28350969a3912a186097bc907/assets/eth-chain-swap-monitor-live-swap-feed-dashboard.png)
+![Ethereum Chain Swap Monitor swap detail with pool liquidity breakdown](https://raw.githubusercontent.com/logicencoder/eth-chain-swaps-monitor-overview/8fe4193f20b100d6523d750b175e89951727ae87/assets/eth-chain-swap-monitor-pool-liquidity-breakdown-swap-detail.png)
 
-### CVE DoS
+### CEX/DEX Arbitrage App
 
-Search and browse CISA and NVD vulnerability records by product and technology; being developed into a professional security CVE search application.
+Compare exchange and decentralized market quotes at relevant trade sizes, scan many pairs for profitable routes and inspect execution context before acting.
 
-[Overview](https://github.com/logicencoder/cve-watch-bridge-overview)
+[Overview](https://github.com/logicencoder/cex-dex-arb-overview)
 
-![CVE DoS vulnerability list from CISA and NVD records](https://raw.githubusercontent.com/logicencoder/cve-watch-bridge-overview/11518b39461c1877b61f84ed04c5fc6e160ea58f/assets/cve-watch-vulnerability-list-cisa-nvd.png)
+![CEX/DEX Arbitrage App with pool discovery, arbitrage scanner and trading rules](https://raw.githubusercontent.com/logicencoder/cex-dex-arb-overview/0cda00083214e115898cba917def91ef06a3f096/assets/cex-dex-arbitrage-app-pool-discovery-arb-scanner-trading-rules.png)
 
 ### Red-Team Lite
 
@@ -133,12 +140,6 @@ A native Linux desktop media player with a real-time equalizer, loudness control
 
 [Overview](https://github.com/logicencoder/le-media-player-overview)
 
-### DNX MEXC In/Out Monitor
-
-Inspect Dynex transfers associated with MEXC in a dedicated incoming/outgoing activity monitor.
-
-[Overview](https://github.com/logicencoder/dnx-mexc-in-out-overview)
-
 ### Dynex MEXC Balance Monitor
 
 Inspect published Dynex exchange in/out activity, balances and related analytics.
@@ -146,12 +147,6 @@ Inspect published Dynex exchange in/out activity, balances and related analytics
 [Overview](https://github.com/logicencoder/dynex-mexc-balance-monitor-plugin-overview) · [Open application](https://logicencoder.com/dynex-mexc-balance-monitor/)
 
 ![Dynex MEXC Balance Monitor dashboard with balance, in and out charts and transaction feed](https://raw.githubusercontent.com/logicencoder/dynex-mexc-balance-monitor-plugin-overview/8b2c6d80a105ee7ceb0ac9247f2a88e8e4670eb4/assets/dynex-mexc-balance-monitor-live-dashboard-in-out-charts.png)
-
-### Basic CEX/DEX Comparator
-
-Compare DNX exchange trades with decentralized quotes at different trade sizes, with gas-cost context.
-
-[Overview](https://github.com/logicencoder/basic-cex-dex-comparator-overview)
 
 ### TS Analyzer
 
@@ -177,22 +172,6 @@ Connect application pages, technical writing and member content through a config
 
 ![Logic Encoder Enhanced WordPress theme front page](https://raw.githubusercontent.com/logicencoder/logic-encoder-theme-overview/8e5a586b41684e5d0334b9169c93d9a22c014dc2/logic-encoder-theme-wordpress-front-page.png)
 
-### CFMS — Cloudflare Management System
-
-Review tunnels, DNS, security rules and logs together when maintaining site access and availability.
-
-[Overview](https://github.com/logicencoder/cfms-overview)
-
-![CFMS Cloudflare management workspace with tunnels, DNS and security rules](https://raw.githubusercontent.com/logicencoder/cfms-overview/3e2f25b76398f3310cbd345df1450231c7b36546/assets/cfms-cloudflare-management-tunnels-dns-security.png)
-
-### Rocinante Command Center
-
-Explore a configurable fictional command deck with navigation, systems, crew and communications. All telemetry and contacts are simulated.
-
-[Overview](https://github.com/logicencoder/roci-command-center-overview)
-
-![Rocinante Command Center simulated navigation](https://raw.githubusercontent.com/logicencoder/roci-command-center-overview/76d1af1701427683a75136a5c288d2611a859333/assets/rocinante-command-center-solar-system-tactical-deck.png)
-
 ### Russian DC Observatory
 
 Compare Russian Internet connectivity, service reports, infrastructure records and website-access observations while keeping sources and uncertainty visible.
@@ -208,14 +187,6 @@ Compare indoor environmental measurements with trends and history from Awair Ele
 [Overview](https://github.com/logicencoder/le-awair-monitor-dashboard-overview)
 
 ![Awair environmental metrics and measurement history](https://raw.githubusercontent.com/logicencoder/le-awair-monitor-dashboard-overview/1154807b0cd2a9dd009256f177a5bbb623567599/assets/awair-monitor-dashboard-air-quality-score-trend-history.png)
-
-### Military Flights Monitor
-
-Browse available public aircraft observations through a map, globe and searchable board; coverage depends on transmitted and available data.
-
-[Overview](https://github.com/logicencoder/mil-flights-bridge-overview)
-
-![Military Flights Monitor aircraft board](https://raw.githubusercontent.com/logicencoder/mil-flights-bridge-overview/3c702c6275c03db0ceeb3ba9c9ff387d2e40c6ee/assets/military-flights-monitor-live-ads-b-globe-aircraft-details.png)
 
 ### Slovak Air Quality Dashboard
 
@@ -280,6 +251,24 @@ Explore wrapped Dynex holder rankings, balances and transactions with their chai
 Support member registration, email verification, login, account recovery and access administration.
 
 [Overview](https://github.com/logicencoder/logicencoder-login-system-plugin-overview)
+
+### European Electricity Monitor
+
+Compare European electricity prices with demand, generation and cross-border market activity.
+
+[Overview](https://github.com/logicencoder/elec-prices-bridge-overview) · [Open application](https://logicencoder.com/european-electricity-monitor/)
+
+### CVE DoS
+
+Search and browse CISA and NVD vulnerability records by product and technology; being developed into a professional security CVE search application.
+
+[Overview](https://github.com/logicencoder/cve-watch-bridge-overview)
+
+### Military Flights Monitor
+
+Browse available public aircraft observations through a map, globe and searchable board; coverage depends on transmitted and available data.
+
+[Overview](https://github.com/logicencoder/mil-flights-bridge-overview)
 
 ### Application boilerplates
 

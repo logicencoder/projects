@@ -98,7 +98,7 @@
      "repo": "elec-prices-bridge-overview",
      "live": "https://logicencoder.com/european-electricity-monitor/",
      "image": {
-      "path": "assets/european-electricity-monitor-price-map-demand-generation.png",
+      "path": "assets/european-electricity-monitor-day-ahead-prices-heatmap.png",
       "alt": "European Electricity Monitor price map with demand and generation panels"
      }
     },
@@ -216,7 +216,7 @@
      "description": "Compare indoor environmental measurements with trends and history from Awair Element devices.",
      "repo": "le-awair-monitor-dashboard-overview",
      "image": {
-      "path": "assets/awair-monitor-dashboard-indoor-metrics-history.png",
+      "path": "assets/awair-monitor-dashboard-air-quality-score-trend-history.png",
       "alt": "Awair environmental metrics and measurement history"
      }
     },
@@ -225,7 +225,7 @@
      "description": "Browse available public aircraft observations through a map, globe and searchable board; coverage depends on transmitted and available data.",
      "repo": "mil-flights-bridge-overview",
      "image": {
-      "path": "assets/military-flights-monitor-aircraft-board.png",
+      "path": "assets/military-flights-monitor-live-ads-b-globe-aircraft-details.png",
       "alt": "Military Flights Monitor aircraft board"
      }
     },

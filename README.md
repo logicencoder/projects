@@ -39,7 +39,7 @@ Take media through transcription, karaoke/caption editing and rendering, with st
 
 [Overview](https://github.com/logicencoder/le-karaoke-studio-overview)
 
-![LE Karaoke Studio transcription and caption editor](https://raw.githubusercontent.com/logicencoder/le-karaoke-studio-overview/852a2abe27a568601559f9b187be769e21388fff/assets/le-karaoke-studio-transcription-caption-editor.png)
+![LE Karaoke Studio transcription and caption editor](https://raw.githubusercontent.com/logicencoder/le-karaoke-studio-overview/0b4b45500decb0f33658f097f8760744c2cd517f/assets/le-karaoke-studio-transcription-caption-editor.png)
 
 ### LE HSCR — Radio Monitoring Workspace
 
@@ -47,7 +47,7 @@ Bring Bluetooth, Wi-Fi and satellite inspection into one workspace for authorize
 
 [Overview](https://github.com/logicencoder/le-hscr-overview)
 
-![LE HSCR radio monitoring workspace](https://raw.githubusercontent.com/logicencoder/le-hscr-overview/0097c056cdcca3c17205d0e391327fd1de556a29/assets/le-hscr-radio-monitoring-workspace.png)
+![LE HSCR radio monitoring workspace](https://raw.githubusercontent.com/logicencoder/le-hscr-overview/95af3b88d33cc077391670aa0017e6323fd7f3db/assets/le-hscr-radio-monitoring-workspace.png)
 
 ### WP Visitor Stats
 
@@ -97,7 +97,7 @@ Compare European electricity prices with demand, generation and cross-border mar
 
 [Overview](https://github.com/logicencoder/elec-prices-bridge-overview) · [Open application](https://logicencoder.com/european-electricity-monitor/)
 
-![European Electricity Monitor price map with demand and generation panels](https://raw.githubusercontent.com/logicencoder/elec-prices-bridge-overview/8b4b04fc1a212de3df9eee2e840fd47eb5d68b43/assets/european-electricity-monitor-price-map-demand-generation.png)
+![European Electricity Monitor price map with demand and generation panels](https://raw.githubusercontent.com/logicencoder/elec-prices-bridge-overview/5bb201f393fe6bed6e5927512215643f69fcecef/assets/european-electricity-monitor-day-ahead-prices-heatmap.png)
 
 ### Ethereum Chain Swap Monitor
 
@@ -191,7 +191,7 @@ Explore a configurable fictional command deck with navigation, systems, crew and
 
 [Overview](https://github.com/logicencoder/roci-command-center-overview)
 
-![Rocinante Command Center simulated navigation](https://raw.githubusercontent.com/logicencoder/roci-command-center-overview/1739bb64ad875ea6b82f4616cae9ce2d12d5cd05/assets/rocinante-command-center-simulated-navigation.png)
+![Rocinante Command Center simulated navigation](https://raw.githubusercontent.com/logicencoder/roci-command-center-overview/e44a09564fcb8251ed36b1688ec148d8d516acb0/assets/rocinante-command-center-simulated-navigation.png)
 
 ### Russian DC Observatory
 
@@ -207,7 +207,7 @@ Compare indoor environmental measurements with trends and history from Awair Ele
 
 [Overview](https://github.com/logicencoder/le-awair-monitor-dashboard-overview)
 
-![Awair environmental metrics and measurement history](https://raw.githubusercontent.com/logicencoder/le-awair-monitor-dashboard-overview/abbfa4d739e75a3b04188fa9d5017dce5a767d76/assets/awair-monitor-dashboard-indoor-metrics-history.png)
+![Awair environmental metrics and measurement history](https://raw.githubusercontent.com/logicencoder/le-awair-monitor-dashboard-overview/c1528b39b4bdfa139faa0e5d01da193a28a03b0a/assets/awair-monitor-dashboard-air-quality-score-trend-history.png)
 
 ### Military Flights Monitor
 
@@ -215,7 +215,7 @@ Browse available public aircraft observations through a map, globe and searchabl
 
 [Overview](https://github.com/logicencoder/mil-flights-bridge-overview)
 
-![Military Flights Monitor aircraft board](https://raw.githubusercontent.com/logicencoder/mil-flights-bridge-overview/5abae33ded4c0030aea2300851ab633e528baf4b/assets/military-flights-monitor-aircraft-board.png)
+![Military Flights Monitor aircraft board](https://raw.githubusercontent.com/logicencoder/mil-flights-bridge-overview/3c702c6275c03db0ceeb3ba9c9ff387d2e40c6ee/assets/military-flights-monitor-live-ads-b-globe-aircraft-details.png)
 
 ### Slovak Air Quality Dashboard
 

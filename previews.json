@@ -26,9 +26,9 @@
  {
   "repo": "le-karaoke-studio-overview",
   "overview": "https://github.com/logicencoder/le-karaoke-studio-overview",
-  "commit": "852a2abe27a568601559f9b187be769e21388fff",
+  "commit": "0b4b45500decb0f33658f097f8760744c2cd517f",
   "image": {
-   "url": "https://raw.githubusercontent.com/logicencoder/le-karaoke-studio-overview/852a2abe27a568601559f9b187be769e21388fff/assets/le-karaoke-studio-transcription-caption-editor.png",
+   "url": "https://raw.githubusercontent.com/logicencoder/le-karaoke-studio-overview/0b4b45500decb0f33658f097f8760744c2cd517f/assets/le-karaoke-studio-transcription-caption-editor.png",
    "alt": "LE Karaoke Studio transcription and caption editor",
    "width": 1600,
    "height": 900,
@@ -38,9 +38,9 @@
  {
   "repo": "le-hscr-overview",
   "overview": "https://github.com/logicencoder/le-hscr-overview",
-  "commit": "0097c056cdcca3c17205d0e391327fd1de556a29",
+  "commit": "95af3b88d33cc077391670aa0017e6323fd7f3db",
   "image": {
-   "url": "https://raw.githubusercontent.com/logicencoder/le-hscr-overview/0097c056cdcca3c17205d0e391327fd1de556a29/assets/le-hscr-radio-monitoring-workspace.png",
+   "url": "https://raw.githubusercontent.com/logicencoder/le-hscr-overview/95af3b88d33cc077391670aa0017e6323fd7f3db/assets/le-hscr-radio-monitoring-workspace.png",
    "alt": "LE HSCR radio monitoring workspace",
    "width": 1600,
    "height": 900,
@@ -110,13 +110,13 @@
  {
   "repo": "elec-prices-bridge-overview",
   "overview": "https://github.com/logicencoder/elec-prices-bridge-overview",
-  "commit": "8b4b04fc1a212de3df9eee2e840fd47eb5d68b43",
+  "commit": "5bb201f393fe6bed6e5927512215643f69fcecef",
   "image": {
-   "url": "https://raw.githubusercontent.com/logicencoder/elec-prices-bridge-overview/8b4b04fc1a212de3df9eee2e840fd47eb5d68b43/assets/european-electricity-monitor-price-map-demand-generation.png",
+   "url": "https://raw.githubusercontent.com/logicencoder/elec-prices-bridge-overview/5bb201f393fe6bed6e5927512215643f69fcecef/assets/european-electricity-monitor-day-ahead-prices-heatmap.png",
    "alt": "European Electricity Monitor price map with demand and generation panels",
-   "width": 1600,
-   "height": 900,
-   "bytes": 221467
+   "width": 1898,
+   "height": 888,
+   "bytes": 270551
   }
  },
  {
@@ -214,9 +214,9 @@
  {
   "repo": "roci-command-center-overview",
   "overview": "https://github.com/logicencoder/roci-command-center-overview",
-  "commit": "1739bb64ad875ea6b82f4616cae9ce2d12d5cd05",
+  "commit": "e44a09564fcb8251ed36b1688ec148d8d516acb0",
   "image": {
-   "url": "https://raw.githubusercontent.com/logicencoder/roci-command-center-overview/1739bb64ad875ea6b82f4616cae9ce2d12d5cd05/assets/rocinante-command-center-simulated-navigation.png",
+   "url": "https://raw.githubusercontent.com/logicencoder/roci-command-center-overview/e44a09564fcb8251ed36b1688ec148d8d516acb0/assets/rocinante-command-center-simulated-navigation.png",
    "alt": "Rocinante Command Center simulated navigation",
    "width": 1600,
    "height": 900,
@@ -230,25 +230,25 @@
  {
   "repo": "le-awair-monitor-dashboard-overview",
   "overview": "https://github.com/logicencoder/le-awair-monitor-dashboard-overview",
-  "commit": "abbfa4d739e75a3b04188fa9d5017dce5a767d76",
+  "commit": "c1528b39b4bdfa139faa0e5d01da193a28a03b0a",
   "image": {
-   "url": "https://raw.githubusercontent.com/logicencoder/le-awair-monitor-dashboard-overview/abbfa4d739e75a3b04188fa9d5017dce5a767d76/assets/awair-monitor-dashboard-indoor-metrics-history.png",
+   "url": "https://raw.githubusercontent.com/logicencoder/le-awair-monitor-dashboard-overview/c1528b39b4bdfa139faa0e5d01da193a28a03b0a/assets/awair-monitor-dashboard-air-quality-score-trend-history.png",
    "alt": "Awair environmental metrics and measurement history",
-   "width": 1600,
-   "height": 1000,
-   "bytes": 222540
+   "width": 1936,
+   "height": 3485,
+   "bytes": 729605
   }
  },
  {
   "repo": "mil-flights-bridge-overview",
   "overview": "https://github.com/logicencoder/mil-flights-bridge-overview",
-  "commit": "5abae33ded4c0030aea2300851ab633e528baf4b",
+  "commit": "3c702c6275c03db0ceeb3ba9c9ff387d2e40c6ee",
   "image": {
-   "url": "https://raw.githubusercontent.com/logicencoder/mil-flights-bridge-overview/5abae33ded4c0030aea2300851ab633e528baf4b/assets/military-flights-monitor-aircraft-board.png",
+   "url": "https://raw.githubusercontent.com/logicencoder/mil-flights-bridge-overview/3c702c6275c03db0ceeb3ba9c9ff387d2e40c6ee/assets/military-flights-monitor-live-ads-b-globe-aircraft-details.png",
    "alt": "Military Flights Monitor aircraft board",
-   "width": 1600,
-   "height": 900,
-   "bytes": 243442
+   "width": 1911,
+   "height": 816,
+   "bytes": 454271
   }
  },
  {

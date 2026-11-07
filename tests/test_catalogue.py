@@ -13,6 +13,7 @@ class CatalogueTests(unittest.TestCase):
     def setUp(self):
         self.data=json.loads((ROOT/'catalogue.json').read_text())
         self.items=[i for s in self.data['sections'] for i in s['items']]
+        self.assertEqual([s['title'] for s in self.data['sections']],['Applications'])
         self.previews={p['repo']:p for p in json.loads((ROOT/'previews.json').read_text())}
         self.text=(ROOT/'README.md').read_text()
     def test_unique_names(self):
@@ -31,10 +32,16 @@ class CatalogueTests(unittest.TestCase):
     def test_forbidden_word(self):
         self.assertNotIn('flagship',self.text.lower())
         self.assertNotIn('flagship',(ROOT/'catalogue.json').read_text().lower())
-    def test_linkonly_sections_have_no_images(self):
-        for s in self.data['sections']:
-            if s.get('linkonly'):
-                for i in s['items']: self.assertNotIn('image',i)
+    def test_entries_are_detailed(self):
+        for i in self.items:
+            self.assertTrue(i.get('summary') or len(i['description'])>60,i['name'])
+            if i.get('repo'): self.assertGreaterEqual(len(i.get('highlights',[])),3,i['name'])
+    def test_no_audience_wording(self):
+        low=self.text.lower()
+        for word in ['flagship','recruit','employer','hiring',' agency','agencies']: self.assertNotIn(word,low,word)
+    def test_satpi_and_technisat_are_separate(self):
+        names=[i['name'] for i in self.items]
+        self.assertTrue(any(n.startswith('SatPI') for n in names) and any(n.startswith('TechniSat') for n in names))
     def test_images_are_pinned_with_seo_names(self):
         for i in self.items:
             img=i.get('image')

@@ -254,9 +254,9 @@
  {
   "repo": "air-quality-bridge-overview",
   "overview": "https://github.com/logicencoder/air-quality-bridge-overview",
-  "commit": "e4592018480f73721cd8cddd0b4bee834a7e358b",
+  "commit": "42e86a73e4c0228d0a01324f2fe9c00f0281804c",
   "image": {
-   "url": "https://raw.githubusercontent.com/logicencoder/air-quality-bridge-overview/e4592018480f73721cd8cddd0b4bee834a7e358b/assets/slovak-air-quality-dashboard-history-hourly-source-index.png",
+   "url": "https://raw.githubusercontent.com/logicencoder/air-quality-bridge-overview/42e86a73e4c0228d0a01324f2fe9c00f0281804c/assets/slovak-air-quality-dashboard-history-hourly-source-index.png",
    "alt": "Slovak Air Quality Dashboard history of hourly readings and station changes",
    "width": 1891,
    "height": 1015,
@@ -290,6 +290,10 @@
  {
   "repo": "satpi",
   "overview": "https://github.com/logicencoder/satpi"
+ },
+ {
+  "repo": "technisat-skystar-usb-2-hd-ci-satip",
+  "overview": "https://github.com/logicencoder/technisat-skystar-usb-2-hd-ci-satip"
  },
  {
   "repo": "xex-spread-bridge-overview",

@@ -18,8 +18,6 @@ Running a growing set of applications meant a terminal for each of them, separat
 
 One browser dashboard now controls the services, containers, native units and firewall and shows logs and resources beside them. It saves the time I used to lose switching between tools, and it is the control point for most of what I run.
 
-**Status:** In daily use on my own servers
-
 **Built with:** Python; HTML, CSS, JavaScript; YAML; psutil, Server-Sent Events; Docker, Docker Compose, systemd, SSH, UFW; Linux
 
 [Overview](https://github.com/logicencoder/universal-service-manager-overview)
@@ -52,9 +50,7 @@ I can find what I have already built and decided, and an AI assistant works from
 
 ![MEXC Trading App dashboard with chart, order book and manual order panel](https://raw.githubusercontent.com/logicencoder/mexc_trading_app-overview/b79be717b87b75ccec6b3d8b426609f326df60b5/assets/mexc-trading-app-trading-dashboard-order-book.png)
 
-Building my own trading interface with bots, completely from the ground up, was a dream of mine for many years. I wanted full control over how I trade and a place to test what real-time software can do.
-
-It began as a way to test and optimise processing a large stream of market data, aggregating it, drawing it and acting on it without lag, and it grew into a complete workstation for manual trading and automation.
+Building my own trading interface with bots, completely from the ground up, was a dream of mine for many years. I wanted full control over how I trade, with manual trading and automation in one workstation that I understand to the last detail.
 
 **Built with:** Python, FastAPI; HTML, CSS, JavaScript; MEXC; TradingView; WebSockets
 
@@ -74,7 +70,7 @@ Other gas trackers did not have everything I wanted, so I built my own: a live v
 
 ![MEXC Live Statistics dashboard with market trades and analytics](https://raw.githubusercontent.com/logicencoder/mexc-live-stats-plugin-overview/f6dcf708abb56af0f24a134d11fda7ed140583f7/assets/mexc-live-statistics-live-dashboard-market-trades.png)
 
-A real-time statistics site for exchange markets, fed by my own data service and published on logicencoder.com. The same thing exists for the Gate exchange.
+A test of optimisation: processing a lot of real-time data, aggregating it and drawing it for many visitors at once without wasting resources. It is a public statistics site fed by my own data service and published on logicencoder.com. The same thing exists for the Gate exchange.
 
 **Built with:** PHP, WordPress; HTML, CSS, JavaScript; MEXC public market data; WebSockets; optional TradingView chart (off by default)
 
@@ -128,8 +124,6 @@ Mostly a fun project: I am an astronomy fan, so I put together one place where I
 
 I did not want seven terminals open just to watch the hardware. One terminal dashboard shows CPU, memory, disk, network, GPU and sensors together, so everything is in one place and I can keep working.
 
-**Status:** In daily use
-
 **Built with:** Python; Textual; psutil; Linux
 
 [Overview](https://github.com/logicencoder/system-monitor-app-overview)
@@ -151,8 +145,6 @@ A fictional ship command deck that I built to show a visual style which I can de
 Watching films, the jump from quiet dialogue to a loud action scene meant reaching for the volume again and again, which is annoying. I built a normalizer that keeps loudness under control so dialogue stays understandable.
 
 It was also my test of building, compiling and packaging an application for Windows, because most of what I write targets Linux.
-
-**Status:** Test project, in use
 
 **Built with:** C#, Windows Forms; C++ audio processing object; WASAPI, NAudio; 32-bit floating-point DSP
 
@@ -176,8 +168,6 @@ It has also taught me how long-running services fail. A full disk once silently 
 
 One of my first big applications, a monolith of roughly twenty thousand lines. I used it to test how such a project can be taken apart into microservices, how to display a lot of different real-time data at once and how to automate trades by market criteria.
 
-**Status:** Test project
-
 **Built with:** Python, FastAPI; HTML, CSS, JavaScript; Web3.py; MEXC, Gate, Uniswap; TradingView
 
 [Overview](https://github.com/logicencoder/cex-dex-arb-overview)
@@ -193,8 +183,6 @@ A small scanner for a quick first security pass over a web application you own o
 ### LE Media Player
 
 A test project: porting my browser-based audio-effects lab to Rust. I wanted to learn Rust, development, building and compiling, so I picked something I already understood. The result is a fast native Linux player with an equalizer and visualizers.
-
-**Status:** Test project
 
 **Built with:** Rust; cpal, ffmpeg, rustfft; egui, Slint, GTK4; custom 20-band equalizer
 
@@ -214,7 +202,7 @@ The data about how much DNX the exchange wallet holds and moves was not publishe
 
 ![TS Analyzer inspecting an actual receiver transport stream](https://raw.githubusercontent.com/logicencoder/ts-analyzer-overview/0d6b2ffbd7964526782d51f9fec36e1c8ad081d5/assets/ts-analyzer-transport-analysis.png)
 
-I am a satellite TV enthusiast and wanted an application for analysing transport streams: not just watching a channel but looking inside the stream, at tuning, reception and what the stream contains.
+I am interested in satellite feeds and in analysing streams, not in watching television. I wanted an application for looking inside transport streams: tuning, reception and what a stream actually contains.
 
 **Built with:** Rust; Python; FastAPI; JavaScript; HTML; CSS
 

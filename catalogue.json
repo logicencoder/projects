@@ -107,7 +107,7 @@
      "description": "Follow observed swaps, recurring addresses and comparison views in a focused on-chain investigation workspace.",
      "repo": "eth-chain-swaps-monitor-overview",
      "image": {
-      "path": "assets/eth-chain-swap-monitor-dashboard-featured-dark.png",
+      "path": "assets/eth-chain-swap-monitor-live-swap-feed-dashboard.png",
       "alt": "Ethereum Chain Swap Monitor live swap feed"
      }
     },

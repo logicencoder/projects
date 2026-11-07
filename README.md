@@ -105,7 +105,7 @@ Follow observed swaps, recurring addresses and comparison views in a focused on-
 
 [Overview](https://github.com/logicencoder/eth-chain-swaps-monitor-overview)
 
-![Ethereum Chain Swap Monitor live swap feed](https://raw.githubusercontent.com/logicencoder/eth-chain-swaps-monitor-overview/46934ef1b463ad2bec16f9587e1a76900c362fd5/assets/eth-chain-swap-monitor-dashboard-featured-dark.png)
+![Ethereum Chain Swap Monitor live swap feed](https://raw.githubusercontent.com/logicencoder/eth-chain-swaps-monitor-overview/0489ec8b572053413bbdc35cc66c32b9992d7739/assets/eth-chain-swap-monitor-live-swap-feed-dashboard.png)
 
 ### CVE DoS
 

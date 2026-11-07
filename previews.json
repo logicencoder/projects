@@ -122,13 +122,13 @@
  {
   "repo": "eth-chain-swaps-monitor-overview",
   "overview": "https://github.com/logicencoder/eth-chain-swaps-monitor-overview",
-  "commit": "46934ef1b463ad2bec16f9587e1a76900c362fd5",
+  "commit": "0489ec8b572053413bbdc35cc66c32b9992d7739",
   "image": {
-   "url": "https://raw.githubusercontent.com/logicencoder/eth-chain-swaps-monitor-overview/46934ef1b463ad2bec16f9587e1a76900c362fd5/assets/eth-chain-swap-monitor-dashboard-featured-dark.png",
+   "url": "https://raw.githubusercontent.com/logicencoder/eth-chain-swaps-monitor-overview/0489ec8b572053413bbdc35cc66c32b9992d7739/assets/eth-chain-swap-monitor-live-swap-feed-dashboard.png",
    "alt": "Ethereum Chain Swap Monitor live swap feed",
-   "width": 1632,
-   "height": 1417,
-   "bytes": 445189
+   "width": 1600,
+   "height": 900,
+   "bytes": 285964
   }
  },
  {

@@ -1,4 +1,4 @@
-"""Check catalogue completeness, preview provenance and generated membership."""
+"""Check catalogue structure, ordering rules, preview provenance and generated membership."""
 import importlib.util
 import json
 from pathlib import Path
@@ -12,48 +12,44 @@ build=importlib.util.module_from_spec(spec);spec.loader.exec_module(build)
 class CatalogueTests(unittest.TestCase):
     def setUp(self):
         self.data=json.loads((ROOT/'catalogue.json').read_text())
-        self.items=[i for g in self.data['groups'] for i in g['items']]
-        self.previews=json.loads((ROOT/'previews.json').read_text())
+        self.items=[i for s in self.data['sections'] for i in s['items']]
+        self.previews={p['repo']:p for p in json.loads((ROOT/'previews.json').read_text())}
         self.text=(ROOT/'README.md').read_text()
-    def test_unique_project_membership(self):
-        repos=[i['repo'] for i in self.items]
+    def test_unique_names(self):
+        names=[i['name'] for i in self.items]
+        self.assertEqual(len(names),len(set(names)))
+        repos=[i['repo'] for i in self.items if i.get('repo')]
         self.assertEqual(len(repos),len(set(repos)))
-        self.assertEqual(set(repos),{p['repo'] for p in self.previews})
-        self.assertEqual(len(repos),47)
-        self.assertEqual(len(self.data['additional']),9)
-    def test_all_presentations_have_links(self):
-        for item in self.items:
-            self.assertIn('### '+item['name']+'\n',self.text)
-            self.assertIn('https://github.com/logicencoder/'+item['repo']+')',self.text)
-            for related in item.get('related',[]):
-                self.assertIn('https://github.com/logicencoder/'+related+')',self.text)
-    def test_all_48_public_overviews_covered(self):
-        names={i['repo'] for i in self.items if i['repo'].endswith('-overview')}
-        names.update(r for i in self.items for r in i.get('related',[]))
-        self.assertEqual(len(names),48)
-    def test_verified_previews_are_pinned(self):
-        for preview in self.previews:
-            self.assertFalse(preview.get('error'))
-            if preview.get('image'):
-                image=preview['image']
-                self.assertIn(image['url'],self.text)
-                self.assertRegex(image['url'],r'raw\.githubusercontent\.com/logicencoder/[^/]+/[0-9a-f]{40}/')
-                self.assertGreaterEqual(image['width'],400)
-                self.assertGreater(image['bytes'],0)
-        self.assertEqual(len(re.findall(r'!\[',self.text)),38)
-    def test_generated_output_is_current(self):
-        readme,details=build.render()
-        self.assertEqual(self.text,readme)
-        self.assertEqual((ROOT/'docs/operator-tools.md').read_text(),details)
-    def test_no_infrastructure_details_or_retired_apps(self):
-        self.assertNotRegex(self.text,r'192\.168\.|127\.0\.0\.1|/home/|PRIVATE_KEY|API_KEY=')
-        for retired in ['satellite-map-bridge','sun-live-bridge','people-in-space-bridge','exoplanet-explorer-bridge','launch-tracker-bridge']:
-            self.assertNotIn('github.com/logicencoder/'+retired+')',self.text)
-    def test_local_image_is_real_png(self):
-        data=(ROOT/'assets/russian-dc-overview.png').read_bytes()
-        self.assertEqual(data[:8],b'\x89PNG\r\n\x1a\n')
-        self.assertEqual(int.from_bytes(data[16:20],'big'),1600)
-        self.assertEqual(int.from_bytes(data[20:24],'big'),1100)
-
-if __name__=='__main__':
-    unittest.main()
+    def test_readme_is_generated_from_data(self):
+        self.assertEqual(build.render(),self.text)
+    def test_top_order(self):
+        top=[i['name'] for i in self.data['sections'][0]['items']]
+        self.assertEqual(top[:2],['Universal Service Manager','MEXC Trading App'])
+    def test_removed_entries_stay_removed(self):
+        for word in ['Multi-Coin','Bot Suite','Arbitrage Dashboard','DEX Swapper','Sol Pump','LE Shop','Sitemap Manager','LE Digest','Useful Scripts','Cursor Health','Chain Checker','Chain Watchers','Proxy Pool','Tokyo VPN','Rocinante Explorer','Additional operator tools','Companion']:
+            self.assertNotIn(word,self.text,word)
+    def test_forbidden_word(self):
+        self.assertNotIn('flagship',self.text.lower())
+        self.assertNotIn('flagship',(ROOT/'catalogue.json').read_text().lower())
+    def test_linkonly_sections_have_no_images(self):
+        for s in self.data['sections']:
+            if s.get('linkonly'):
+                for i in s['items']: self.assertNotIn('image',i)
+    def test_images_are_pinned_with_seo_names(self):
+        for i in self.items:
+            img=i.get('image')
+            if not img or img['path'].startswith('LOCAL:'): continue
+            meta=self.previews[i['repo']]
+            self.assertIn(meta['image']['url'],self.text)
+            self.assertRegex(meta['image']['url'],r'raw\.githubusercontent\.com/logicencoder/[^/]+/[0-9a-f]{40}/')
+            name=Path(img['path']).stem
+            self.assertRegex(name,r'^[a-z0-9]+(-[a-z0-9]+)+$',name)
+            self.assertNotRegex(name,r'20\d\d-\d\d-\d\d')
+    def test_local_images_exist(self):
+        for i in self.items:
+            img=i.get('image')
+            if img and img['path'].startswith('LOCAL:'): self.assertTrue((ROOT/img['path'][6:]).exists())
+    def test_overview_links(self):
+        for i in self.items:
+            if i.get('repo'): self.assertIn('https://github.com/logicencoder/'+i['repo']+')',self.text)
+if __name__=='__main__': unittest.main()

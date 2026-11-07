@@ -7,7 +7,7 @@ A visual catalogue of applications, dashboards, operator tools and engineering p
 ## Browse
 
 - [Applications](#applications) — 8 projects
-- [More applications](#more-applications) — 21 projects
+- [More applications](#more-applications) — 19 projects
 - [Engineering notes](#engineering-notes) — 2 projects
 - [Prototypes, skeletons and unfinished work](#prototypes-skeletons-and-unfinished-work) — 6 projects
 
@@ -47,7 +47,7 @@ Bring Bluetooth, Wi-Fi and satellite inspection into one workspace for authorize
 
 [Overview](https://github.com/logicencoder/le-hscr-overview)
 
-![LE HSCR radio monitoring workspace](https://raw.githubusercontent.com/logicencoder/le-hscr-overview/81cd4c9613e35e92bea3a07dfaa37a1fed84d991/assets/le-hscr-radio-monitoring-workspace.png)
+![LE HSCR radio monitoring workspace](https://raw.githubusercontent.com/logicencoder/le-hscr-overview/fcbe22bb9830dc80983ea6d5e8b2455d5cc27e72/assets/le-hscr-radio-monitoring-workspace.png)
 
 ### WP Visitor Stats
 
@@ -125,10 +125,6 @@ A native Linux desktop media player with a real-time equalizer, loudness control
 
 [Overview](https://github.com/logicencoder/le-media-player-overview)
 
-### DNX Bridge
-
-Prepare and inspect bridge claims, review available capacity and control supported automatic claiming.
-
 ### DNX MEXC In/Out Monitor
 
 Inspect Dynex transfers associated with MEXC in a dedicated incoming/outgoing activity monitor.
@@ -176,14 +172,6 @@ Review tunnels, DNS, security rules and logs together when maintaining site acce
 [Overview](https://github.com/logicencoder/cfms-overview)
 
 ![CFMS Cloudflare management workspace with tunnels, DNS and security rules](https://raw.githubusercontent.com/logicencoder/cfms-overview/3e2f25b76398f3310cbd345df1450231c7b36546/assets/cfms-cloudflare-management-tunnels-dns-security.png)
-
-### LE CS Agent — Coding Station
-
-Keep multi-provider AI conversations, saved sessions and terminal work together in one coding station.
-
-[Overview](https://github.com/logicencoder/le-cs-agent-overview)
-
-![LE CS Agent coding station workspace](https://raw.githubusercontent.com/logicencoder/le-cs-agent-overview/b43bf3d37fdd91cbc6c8f71d41f886b090c54105/assets/le-cs-agent-coding-station-workspace.png)
 
 ### Rocinante Command Center
 

@@ -38,9 +38,9 @@
  {
   "repo": "le-hscr-overview",
   "overview": "https://github.com/logicencoder/le-hscr-overview",
-  "commit": "81cd4c9613e35e92bea3a07dfaa37a1fed84d991",
+  "commit": "fcbe22bb9830dc80983ea6d5e8b2455d5cc27e72",
   "image": {
-   "url": "https://raw.githubusercontent.com/logicencoder/le-hscr-overview/81cd4c9613e35e92bea3a07dfaa37a1fed84d991/assets/le-hscr-radio-monitoring-workspace.png",
+   "url": "https://raw.githubusercontent.com/logicencoder/le-hscr-overview/fcbe22bb9830dc80983ea6d5e8b2455d5cc27e72/assets/le-hscr-radio-monitoring-workspace.png",
    "alt": "LE HSCR radio monitoring workspace",
    "width": 1600,
    "height": 900,
@@ -197,18 +197,6 @@
    "width": 1600,
    "height": 900,
    "bytes": 104317
-  }
- },
- {
-  "repo": "le-cs-agent-overview",
-  "overview": "https://github.com/logicencoder/le-cs-agent-overview",
-  "commit": "b43bf3d37fdd91cbc6c8f71d41f886b090c54105",
-  "image": {
-   "url": "https://raw.githubusercontent.com/logicencoder/le-cs-agent-overview/b43bf3d37fdd91cbc6c8f71d41f886b090c54105/assets/le-cs-agent-coding-station-workspace.png",
-   "alt": "LE CS Agent coding station workspace",
-   "width": 1600,
-   "height": 900,
-   "bytes": 73191
   }
  },
  {

@@ -26,7 +26,7 @@ class CatalogueTests(unittest.TestCase):
         top=[i['name'] for i in self.data['sections'][0]['items']]
         self.assertEqual(top[:2],['Universal Service Manager','MEXC Trading App'])
     def test_removed_entries_stay_removed(self):
-        for word in ['Multi-Coin','Bot Suite','Arbitrage Dashboard','DEX Swapper','Sol Pump','LE Shop','Sitemap Manager','LE Digest','Useful Scripts','Cursor Health','Chain Checker','Chain Watchers','Proxy Pool','Tokyo VPN','Rocinante Explorer','Additional operator tools','Companion']:
+        for word in ['DNX Bridge','LE CS Agent','Multi-Coin','Bot Suite','Arbitrage Dashboard','DEX Swapper','Sol Pump','LE Shop','Sitemap Manager','LE Digest','Useful Scripts','Cursor Health','Chain Checker','Chain Watchers','Proxy Pool','Tokyo VPN','Rocinante Explorer','Additional operator tools','Companion']:
             self.assertNotIn(word,self.text,word)
     def test_forbidden_word(self):
         self.assertNotIn('flagship',self.text.lower())

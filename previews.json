@@ -50,25 +50,25 @@
  {
   "repo": "mexc_trading_app-overview",
   "overview": "https://github.com/logicencoder/mexc_trading_app-overview",
-  "commit": "dd9549029e9df57291c5233b25f024d7bc80e2d9",
+  "commit": "b79be717b87b75ccec6b3d8b426609f326df60b5",
   "image": {
-   "url": "https://raw.githubusercontent.com/logicencoder/mexc_trading_app-overview/dd9549029e9df57291c5233b25f024d7bc80e2d9/assets/mexc-trading-app-trading-dashboard-order-book.png",
+   "url": "https://raw.githubusercontent.com/logicencoder/mexc_trading_app-overview/b79be717b87b75ccec6b3d8b426609f326df60b5/assets/mexc-trading-app-trading-dashboard-order-book.png",
    "alt": "MEXC Trading App dashboard with chart, order book and manual order panel",
    "width": 1366,
    "height": 1952,
-   "bytes": 651326
+   "bytes": 586074
   }
  },
  {
   "repo": "le-karaoke-studio-overview",
   "overview": "https://github.com/logicencoder/le-karaoke-studio-overview",
-  "commit": "561194e9e5a3a38f325f67aa1d544cf1edc19ae3",
+  "commit": "2ed33c86e42aa9774c3cfee7a482f40597e4e0c6",
   "image": {
-   "url": "https://raw.githubusercontent.com/logicencoder/le-karaoke-studio-overview/561194e9e5a3a38f325f67aa1d544cf1edc19ae3/assets/le-karaoke-studio-audio-effects-spectrum-visualiser-presets.png",
-   "alt": "LE Karaoke Studio with audio effects, spectrum and visualiser presets",
-   "width": 1907,
-   "height": 871,
-   "bytes": 687960
+   "url": "https://raw.githubusercontent.com/logicencoder/le-karaoke-studio-overview/2ed33c86e42aa9774c3cfee7a482f40597e4e0c6/assets/le-karaoke-studio-work-transcription-editor-timeline.png",
+   "alt": "LE Karaoke Studio workspace with transcription, editor and timeline",
+   "width": 1915,
+   "height": 1078,
+   "bytes": 737877
   }
  },
  {
@@ -110,13 +110,13 @@
  {
   "repo": "celestial-lab-plugin-overview",
   "overview": "https://github.com/logicencoder/celestial-lab-plugin-overview",
-  "commit": "7f6071409585562b81905d3f5b3d09d95d2b7204",
+  "commit": "75f0c881bf7ccb1e8403e5c7ca94fd8cdb3036f3",
   "image": {
-   "url": "https://raw.githubusercontent.com/logicencoder/celestial-lab-plugin-overview/7f6071409585562b81905d3f5b3d09d95d2b7204/assets/celestial-lab-satellite-map-3d-globe-orbits.png",
+   "url": "https://raw.githubusercontent.com/logicencoder/celestial-lab-plugin-overview/75f0c881bf7ccb1e8403e5c7ca94fd8cdb3036f3/assets/celestial-lab-satellite-map-3d-globe-orbits.png",
    "alt": "Celestial Lab satellite map with a 3D globe of orbiting objects",
-   "width": 1908,
-   "height": 862,
-   "bytes": 1018478
+   "width": 1897,
+   "height": 822,
+   "bytes": 780145
   }
  },
  {
@@ -148,11 +148,11 @@
   "overview": "https://github.com/logicencoder/le-sound-normalizer-overview",
   "commit": "7344dee31d360d8ccbcd3850b46fb6ba634ed37f",
   "image": {
-   "url": "https://raw.githubusercontent.com/logicencoder/le-sound-normalizer-overview/7344dee31d360d8ccbcd3850b46fb6ba634ed37f/assets/le-sound-normalizer-cyan-theme-meters-spectrum-oscilloscope.png",
-   "alt": "Le Sound Normalizer cyan theme with meters, spectrum, oscilloscope and equalizer",
-   "width": 677,
-   "height": 1016,
-   "bytes": 185487
+   "url": "https://raw.githubusercontent.com/logicencoder/le-sound-normalizer-overview/7344dee31d360d8ccbcd3850b46fb6ba634ed37f/assets/le-sound-normalizer-15-band-equalizer-compressor.png",
+   "alt": "Le Sound Normalizer with compressor knobs and 15-band equalizer",
+   "width": 459,
+   "height": 716,
+   "bytes": 71376
   }
  },
  {
@@ -170,13 +170,13 @@
  {
   "repo": "cex-dex-arb-overview",
   "overview": "https://github.com/logicencoder/cex-dex-arb-overview",
-  "commit": "0cda00083214e115898cba917def91ef06a3f096",
+  "commit": "5a6b8c1144a49414fa3fb7ccf8cf3581b60bbd86",
   "image": {
-   "url": "https://raw.githubusercontent.com/logicencoder/cex-dex-arb-overview/0cda00083214e115898cba917def91ef06a3f096/assets/cex-dex-arbitrage-app-pool-discovery-arb-scanner-trading-rules.png",
+   "url": "https://raw.githubusercontent.com/logicencoder/cex-dex-arb-overview/5a6b8c1144a49414fa3fb7ccf8cf3581b60bbd86/assets/cex-dex-arbitrage-app-pool-discovery-arb-scanner-trading-rules.png",
    "alt": "CEX/DEX Arbitrage App with pool discovery, arbitrage scanner and trading rules",
    "width": 1705,
    "height": 2141,
-   "bytes": 806853
+   "bytes": 835648
   }
  },
  {
@@ -254,13 +254,13 @@
  {
   "repo": "air-quality-bridge-overview",
   "overview": "https://github.com/logicencoder/air-quality-bridge-overview",
-  "commit": "56c98fb3135788b2d9dfe1efe5670f92ef113bf3",
+  "commit": "e4592018480f73721cd8cddd0b4bee834a7e358b",
   "image": {
-   "url": "https://raw.githubusercontent.com/logicencoder/air-quality-bridge-overview/56c98fb3135788b2d9dfe1efe5670f92ef113bf3/assets/slovak-air-quality-dashboard-station-table.png",
-   "alt": "Slovak Air Quality Dashboard station observations",
-   "width": 1600,
-   "height": 900,
-   "bytes": 177761
+   "url": "https://raw.githubusercontent.com/logicencoder/air-quality-bridge-overview/e4592018480f73721cd8cddd0b4bee834a7e358b/assets/slovak-air-quality-dashboard-history-hourly-source-index.png",
+   "alt": "Slovak Air Quality Dashboard history of hourly readings and station changes",
+   "width": 1891,
+   "height": 1015,
+   "bytes": 172988
   }
  },
  {

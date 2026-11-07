@@ -53,8 +53,8 @@
      "description": "Take media through transcription, karaoke/caption editing and rendering, with studio and repeatable automation workflows.",
      "repo": "le-karaoke-studio-overview",
      "image": {
-      "path": "assets/le-karaoke-studio-audio-effects-spectrum-visualiser-presets.png",
-      "alt": "LE Karaoke Studio with audio effects, spectrum and visualiser presets"
+      "path": "assets/le-karaoke-studio-work-transcription-editor-timeline.png",
+      "alt": "LE Karaoke Studio workspace with transcription, editor and timeline"
      }
     },
     {
@@ -129,8 +129,8 @@
      "description": "Keep loud scenes from overpowering quiet dialogue with a Windows audio tool offering live meters, a compressor, a 15-band equalizer and spectrum and waveform views.",
      "repo": "le-sound-normalizer-overview",
      "image": {
-      "path": "assets/le-sound-normalizer-cyan-theme-meters-spectrum-oscilloscope.png",
-      "alt": "Le Sound Normalizer cyan theme with meters, spectrum, oscilloscope and equalizer"
+      "path": "assets/le-sound-normalizer-15-band-equalizer-compressor.png",
+      "alt": "Le Sound Normalizer with compressor knobs and 15-band equalizer"
      }
     },
     {
@@ -222,8 +222,8 @@
      "description": "Explore monitoring-station readings, station history and geographic context for air quality in Slovakia.",
      "repo": "air-quality-bridge-overview",
      "image": {
-      "path": "assets/slovak-air-quality-dashboard-station-table.png",
-      "alt": "Slovak Air Quality Dashboard station observations"
+      "path": "assets/slovak-air-quality-dashboard-history-hourly-source-index.png",
+      "alt": "Slovak Air Quality Dashboard history of hourly readings and station changes"
      }
     },
     {

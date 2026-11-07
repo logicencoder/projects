@@ -44,7 +44,7 @@ Bring market data, account context, manual orders and supported trading automati
 
 [Overview](https://github.com/logicencoder/mexc_trading_app-overview)
 
-![MEXC Trading App dashboard with chart, order book and manual order panel](https://raw.githubusercontent.com/logicencoder/mexc_trading_app-overview/dd9549029e9df57291c5233b25f024d7bc80e2d9/assets/mexc-trading-app-trading-dashboard-order-book.png)
+![MEXC Trading App dashboard with chart, order book and manual order panel](https://raw.githubusercontent.com/logicencoder/mexc_trading_app-overview/b79be717b87b75ccec6b3d8b426609f326df60b5/assets/mexc-trading-app-trading-dashboard-order-book.png)
 
 ### LE Karaoke Studio
 
@@ -52,7 +52,7 @@ Take media through transcription, karaoke/caption editing and rendering, with st
 
 [Overview](https://github.com/logicencoder/le-karaoke-studio-overview)
 
-![LE Karaoke Studio with audio effects, spectrum and visualiser presets](https://raw.githubusercontent.com/logicencoder/le-karaoke-studio-overview/561194e9e5a3a38f325f67aa1d544cf1edc19ae3/assets/le-karaoke-studio-audio-effects-spectrum-visualiser-presets.png)
+![LE Karaoke Studio workspace with transcription, editor and timeline](https://raw.githubusercontent.com/logicencoder/le-karaoke-studio-overview/2ed33c86e42aa9774c3cfee7a482f40597e4e0c6/assets/le-karaoke-studio-work-transcription-editor-timeline.png)
 
 ### LE HSCR — Radio Monitoring Workspace
 
@@ -84,7 +84,7 @@ Explore satellites, aurora models, solar observations, crews, exoplanets, astero
 
 [Overview](https://github.com/logicencoder/celestial-lab-plugin-overview) · [Open application](https://logicencoder.com/celestial-lab/)
 
-![Celestial Lab satellite map with a 3D globe of orbiting objects](https://raw.githubusercontent.com/logicencoder/celestial-lab-plugin-overview/7f6071409585562b81905d3f5b3d09d95d2b7204/assets/celestial-lab-satellite-map-3d-globe-orbits.png)
+![Celestial Lab satellite map with a 3D globe of orbiting objects](https://raw.githubusercontent.com/logicencoder/celestial-lab-plugin-overview/75f0c881bf7ccb1e8403e5c7ca94fd8cdb3036f3/assets/celestial-lab-satellite-map-3d-globe-orbits.png)
 
 ## More applications
 
@@ -110,7 +110,7 @@ Keep loud scenes from overpowering quiet dialogue with a Windows audio tool offe
 
 [Overview](https://github.com/logicencoder/le-sound-normalizer-overview)
 
-![Le Sound Normalizer cyan theme with meters, spectrum, oscilloscope and equalizer](https://raw.githubusercontent.com/logicencoder/le-sound-normalizer-overview/7344dee31d360d8ccbcd3850b46fb6ba634ed37f/assets/le-sound-normalizer-cyan-theme-meters-spectrum-oscilloscope.png)
+![Le Sound Normalizer with compressor knobs and 15-band equalizer](https://raw.githubusercontent.com/logicencoder/le-sound-normalizer-overview/7344dee31d360d8ccbcd3850b46fb6ba634ed37f/assets/le-sound-normalizer-15-band-equalizer-compressor.png)
 
 ### Ethereum Chain Swap Monitor
 
@@ -126,7 +126,7 @@ Compare exchange and decentralized market quotes at relevant trade sizes, scan m
 
 [Overview](https://github.com/logicencoder/cex-dex-arb-overview)
 
-![CEX/DEX Arbitrage App with pool discovery, arbitrage scanner and trading rules](https://raw.githubusercontent.com/logicencoder/cex-dex-arb-overview/0cda00083214e115898cba917def91ef06a3f096/assets/cex-dex-arbitrage-app-pool-discovery-arb-scanner-trading-rules.png)
+![CEX/DEX Arbitrage App with pool discovery, arbitrage scanner and trading rules](https://raw.githubusercontent.com/logicencoder/cex-dex-arb-overview/5a6b8c1144a49414fa3fb7ccf8cf3581b60bbd86/assets/cex-dex-arbitrage-app-pool-discovery-arb-scanner-trading-rules.png)
 
 ### Red-Team Lite
 
@@ -194,7 +194,7 @@ Explore monitoring-station readings, station history and geographic context for 
 
 [Overview](https://github.com/logicencoder/air-quality-bridge-overview)
 
-![Slovak Air Quality Dashboard station observations](https://raw.githubusercontent.com/logicencoder/air-quality-bridge-overview/56c98fb3135788b2d9dfe1efe5670f92ef113bf3/assets/slovak-air-quality-dashboard-station-table.png)
+![Slovak Air Quality Dashboard history of hourly readings and station changes](https://raw.githubusercontent.com/logicencoder/air-quality-bridge-overview/e4592018480f73721cd8cddd0b4bee834a7e358b/assets/slovak-air-quality-dashboard-history-hourly-source-index.png)
 
 ### Dynex Large Transactions
 

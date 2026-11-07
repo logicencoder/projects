@@ -21,7 +21,7 @@ Review services, inspect logs and control the application fleet from one operato
 
 [Overview](https://github.com/logicencoder/universal-service-manager-overview)
 
-![Universal Service Manager services grid with status, logs and lifecycle controls](https://raw.githubusercontent.com/logicencoder/universal-service-manager-overview/d3a057e7301cc51a5e1e49cc5c5f9a59118409d9/assets/universal-service-manager-services-grid.png)
+![Universal Service Manager services grid with status, logs and lifecycle controls](https://raw.githubusercontent.com/logicencoder/universal-service-manager-overview/69911dc6b38ee5e5ab071ca3b6847aa15666f0e0/assets/universal-service-manager-services-grid.png)
 
 ### MEXC Trading App
 
@@ -31,7 +31,7 @@ The same workstation exists for the Gate exchange.
 
 [Overview](https://github.com/logicencoder/mexc_trading_app-overview)
 
-![MEXC Trading App dashboard with chart, order book and manual order panel](https://raw.githubusercontent.com/logicencoder/mexc_trading_app-overview/aca468aca6ec4e1630d3f3ff05f80f5de4321471/assets/mexc-trading-app-trading-dashboard-order-book.png)
+![MEXC Trading App dashboard with chart, order book and manual order panel](https://raw.githubusercontent.com/logicencoder/mexc_trading_app-overview/dd9549029e9df57291c5233b25f024d7bc80e2d9/assets/mexc-trading-app-trading-dashboard-order-book.png)
 
 ### LE Karaoke Studio
 
@@ -47,7 +47,7 @@ Bring Bluetooth, Wi-Fi and satellite inspection into one workspace for authorize
 
 [Overview](https://github.com/logicencoder/le-hscr-overview)
 
-![LE HSCR radio monitoring workspace](https://raw.githubusercontent.com/logicencoder/le-hscr-overview/25a7273a96351b6d70ff6f875322af9de321350f/assets/le-hscr-radio-monitoring-workspace.png)
+![LE HSCR radio monitoring workspace](https://raw.githubusercontent.com/logicencoder/le-hscr-overview/0097c056cdcca3c17205d0e391327fd1de556a29/assets/le-hscr-radio-monitoring-workspace.png)
 
 ### WP Visitor Stats
 
@@ -55,7 +55,7 @@ Review website visits, content use, campaign context and audience investigations
 
 [Overview](https://github.com/logicencoder/wp-visitor-stats-plugin-overview)
 
-![WP Visitor Stats dashboard with visits, content and audience panels](https://raw.githubusercontent.com/logicencoder/wp-visitor-stats-plugin-overview/b0644bac5f3906f2bc59e9e6d1566f3a6bd9e666/assets/wp-visitor-stats-dashboard-dark.png)
+![WP Visitor Stats dashboard with visits, content and audience panels](https://raw.githubusercontent.com/logicencoder/wp-visitor-stats-plugin-overview/573c313132c88976cf8010599765a73789680ce2/assets/wp-visitor-stats-dashboard-dark.png)
 
 ### Logic Encoder Crypto App Store
 
@@ -79,7 +79,7 @@ Explore satellites, aurora models, solar observations, crews, exoplanets, astero
 
 [Overview](https://github.com/logicencoder/celestial-lab-plugin-overview) · [Open application](https://logicencoder.com/celestial-lab/)
 
-![Celestial Lab 3D aurora forecast over a night-side Earth](https://raw.githubusercontent.com/logicencoder/celestial-lab-plugin-overview/0eb72b5423ecc0bfd1d576174c7f5878a6b90c5d/assets/features-2026-10-26/celestial-lab-weather-aurora.png)
+![Celestial Lab 3D aurora forecast over a night-side Earth](https://raw.githubusercontent.com/logicencoder/celestial-lab-plugin-overview/3cae9acf74c14aaf08038507de4b805695e97a0c/assets/features-2026-10-26/celestial-lab-weather-aurora.png)
 
 ## More applications
 
@@ -97,7 +97,7 @@ Compare European electricity prices with demand, generation and cross-border mar
 
 [Overview](https://github.com/logicencoder/elec-prices-bridge-overview) · [Open application](https://logicencoder.com/european-electricity-monitor/)
 
-![European Electricity Monitor price map with demand and generation panels](https://raw.githubusercontent.com/logicencoder/elec-prices-bridge-overview/6fd448add83b1a1d52dec6a96607bbdc4eca1fea/assets/european-electricity-monitor-price-map-demand-generation.png)
+![European Electricity Monitor price map with demand and generation panels](https://raw.githubusercontent.com/logicencoder/elec-prices-bridge-overview/8b4b04fc1a212de3df9eee2e840fd47eb5d68b43/assets/european-electricity-monitor-price-map-demand-generation.png)
 
 ### Ethereum Chain Swap Monitor
 
@@ -113,7 +113,7 @@ Search and browse CISA and NVD vulnerability records by product and technology; 
 
 [Overview](https://github.com/logicencoder/cve-watch-bridge-overview)
 
-![CVE DoS vulnerability list from CISA and NVD records](https://raw.githubusercontent.com/logicencoder/cve-watch-bridge-overview/7132468904e3ae6097b1cecd2ac7d23ffff2fde9/assets/cve-watch-vulnerability-list-cisa-nvd.png)
+![CVE DoS vulnerability list from CISA and NVD records](https://raw.githubusercontent.com/logicencoder/cve-watch-bridge-overview/11518b39461c1877b61f84ed04c5fc6e160ea58f/assets/cve-watch-vulnerability-list-cisa-nvd.png)
 
 ### Red-Team Lite
 
@@ -151,7 +151,7 @@ Select television sources, inspect transport streams and retain evidence for rec
 
 [Overview](https://github.com/logicencoder/ts-analyzer-overview)
 
-![TS Analyzer inspecting an actual receiver transport stream](https://raw.githubusercontent.com/logicencoder/ts-analyzer-overview/eacd218f2fbd503dc7d35efbd62b6352646c7450/assets/ts-analyzer-transport-analysis.png)
+![TS Analyzer inspecting an actual receiver transport stream](https://raw.githubusercontent.com/logicencoder/ts-analyzer-overview/0d6b2ffbd7964526782d51f9fec36e1c8ad081d5/assets/ts-analyzer-transport-analysis.png)
 
 ### LE Settings
 
@@ -167,7 +167,7 @@ Connect application pages, technical writing and member content through a config
 
 [Overview](https://github.com/logicencoder/logic-encoder-theme-overview)
 
-![Logic Encoder Enhanced WordPress theme front page](https://raw.githubusercontent.com/logicencoder/logic-encoder-theme-overview/697a13df8625a05d8ac86888153961050967c188/logic-encoder-theme-wordpress-front-page.png)
+![Logic Encoder Enhanced WordPress theme front page](https://raw.githubusercontent.com/logicencoder/logic-encoder-theme-overview/8e5a586b41684e5d0334b9169c93d9a22c014dc2/logic-encoder-theme-wordpress-front-page.png)
 
 ### CFMS — Cloudflare Management System
 
@@ -191,7 +191,7 @@ Explore a configurable fictional command deck with navigation, systems, crew and
 
 [Overview](https://github.com/logicencoder/roci-command-center-overview)
 
-![Rocinante Command Center simulated navigation](https://raw.githubusercontent.com/logicencoder/roci-command-center-overview/877d7dc10de63e81c916227ca2a037278c27962f/assets/rocinante-command-center-simulated-navigation.png)
+![Rocinante Command Center simulated navigation](https://raw.githubusercontent.com/logicencoder/roci-command-center-overview/1739bb64ad875ea6b82f4616cae9ce2d12d5cd05/assets/rocinante-command-center-simulated-navigation.png)
 
 ### Russian DC Observatory
 
@@ -207,7 +207,7 @@ Compare indoor environmental measurements with trends and history from Awair Ele
 
 [Overview](https://github.com/logicencoder/le-awair-monitor-dashboard-overview)
 
-![Awair environmental metrics and measurement history](https://raw.githubusercontent.com/logicencoder/le-awair-monitor-dashboard-overview/31585d293377de69b9f9d0657fb8423cae8a5071/assets/awair-monitor-dashboard-indoor-metrics-history.png)
+![Awair environmental metrics and measurement history](https://raw.githubusercontent.com/logicencoder/le-awair-monitor-dashboard-overview/abbfa4d739e75a3b04188fa9d5017dce5a767d76/assets/awair-monitor-dashboard-indoor-metrics-history.png)
 
 ### Military Flights Monitor
 
@@ -215,7 +215,7 @@ Browse available public aircraft observations through a map, globe and searchabl
 
 [Overview](https://github.com/logicencoder/mil-flights-bridge-overview)
 
-![Military Flights Monitor aircraft board](https://raw.githubusercontent.com/logicencoder/mil-flights-bridge-overview/e3f51365e1c06336649bee108277ad1890f214ac/assets/military-flights-monitor-aircraft-board.png)
+![Military Flights Monitor aircraft board](https://raw.githubusercontent.com/logicencoder/mil-flights-bridge-overview/5abae33ded4c0030aea2300851ab633e528baf4b/assets/military-flights-monitor-aircraft-board.png)
 
 ### Slovak Air Quality Dashboard
 
@@ -223,7 +223,7 @@ Explore monitoring-station readings, station history and geographic context for 
 
 [Overview](https://github.com/logicencoder/air-quality-bridge-overview)
 
-![Slovak Air Quality Dashboard station observations](https://raw.githubusercontent.com/logicencoder/air-quality-bridge-overview/d968d3ca9103ad3214ada573014ebf2670c999c0/assets/slovak-air-quality-dashboard-station-table.png)
+![Slovak Air Quality Dashboard station observations](https://raw.githubusercontent.com/logicencoder/air-quality-bridge-overview/56c98fb3135788b2d9dfe1efe5670f92ef113bf3/assets/slovak-air-quality-dashboard-station-table.png)
 
 ### Dynex Large Transactions
 

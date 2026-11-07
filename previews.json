@@ -108,6 +108,18 @@
   }
  },
  {
+  "repo": "mexc-live-stats-plugin-overview",
+  "overview": "https://github.com/logicencoder/mexc-live-stats-plugin-overview",
+  "commit": "f6dcf708abb56af0f24a134d11fda7ed140583f7",
+  "image": {
+   "url": "https://raw.githubusercontent.com/logicencoder/mexc-live-stats-plugin-overview/f6dcf708abb56af0f24a134d11fda7ed140583f7/assets/mexc-live-statistics-live-dashboard-market-trades.png",
+   "alt": "MEXC Live Statistics dashboard with market trades and analytics",
+   "width": 1261,
+   "height": 2764,
+   "bytes": 1113116
+  }
+ },
+ {
   "repo": "elec-prices-bridge-overview",
   "overview": "https://github.com/logicencoder/elec-prices-bridge-overview",
   "commit": "5bb201f393fe6bed6e5927512215643f69fcecef",
@@ -144,12 +156,32 @@
   }
  },
  {
+  "repo": "redteam-lite-overview",
+  "overview": "https://github.com/logicencoder/redteam-lite-overview"
+ },
+ {
   "repo": "le-media-player-overview",
   "overview": "https://github.com/logicencoder/le-media-player-overview"
  },
  {
   "repo": "dnx-mexc-in-out-overview",
   "overview": "https://github.com/logicencoder/dnx-mexc-in-out-overview"
+ },
+ {
+  "repo": "dynex-mexc-balance-monitor-plugin-overview",
+  "overview": "https://github.com/logicencoder/dynex-mexc-balance-monitor-plugin-overview",
+  "commit": "8b2c6d80a105ee7ceb0ac9247f2a88e8e4670eb4",
+  "image": {
+   "url": "https://raw.githubusercontent.com/logicencoder/dynex-mexc-balance-monitor-plugin-overview/8b2c6d80a105ee7ceb0ac9247f2a88e8e4670eb4/assets/dynex-mexc-balance-monitor-live-dashboard-in-out-charts.png",
+   "alt": "Dynex MEXC Balance Monitor dashboard with balance, in and out charts and transaction feed",
+   "width": 1433,
+   "height": 2574,
+   "bytes": 988073
+  }
+ },
+ {
+  "repo": "basic-cex-dex-comparator-overview",
+  "overview": "https://github.com/logicencoder/basic-cex-dex-comparator-overview"
  },
  {
   "repo": "ts-analyzer-overview",

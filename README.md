@@ -7,7 +7,7 @@ A visual catalogue of applications, dashboards, operator tools and engineering p
 ## Browse
 
 - [Applications](#applications) — 8 projects
-- [More applications](#more-applications) — 19 projects
+- [More applications](#more-applications) — 20 projects
 - [Engineering notes](#engineering-notes) — 2 projects
 - [Prototypes, skeletons and unfinished work](#prototypes-skeletons-and-unfinished-work) — 6 projects
 
@@ -26,8 +26,6 @@ Review services, inspect logs and control the application fleet from one operato
 ### MEXC Trading App
 
 Bring market data, account context, manual orders and supported trading automation into one spot-trading workstation.
-
-The same workstation exists for the Gate exchange.
 
 [Overview](https://github.com/logicencoder/mexc_trading_app-overview)
 
@@ -91,6 +89,14 @@ Inspect Ethereum gas estimates, recent conditions, historical patterns and trans
 
 ![ETH Gas Live dashboard with gas price chart and fee tiers](https://raw.githubusercontent.com/logicencoder/eth-gas-live-plugin-overview/0cafbf56bb6dccdd61aa9cd2831f681cc8dfea47/assets/eth-gas-live-dashboard-gas-price-chart.png)
 
+### MEXC Live Statistics
+
+Explore spot markets through charts, recent trading activity, analytics and a searchable coin catalogue.
+
+[Overview](https://github.com/logicencoder/mexc-live-stats-plugin-overview) · [Same thing for the Gate exchange: Gate Live Statistics](https://github.com/logicencoder/gate-live-stats-plugin-overview)
+
+![MEXC Live Statistics dashboard with market trades and analytics](https://raw.githubusercontent.com/logicencoder/mexc-live-stats-plugin-overview/f6dcf708abb56af0f24a134d11fda7ed140583f7/assets/mexc-live-statistics-live-dashboard-market-trades.png)
+
 ### European Electricity Monitor
 
 Compare European electricity prices with demand, generation and cross-border market activity.
@@ -119,6 +125,8 @@ Search and browse CISA and NVD vulnerability records by product and technology; 
 
 Run authorized web-application security checks and retain browser evidence and reports.
 
+[Overview](https://github.com/logicencoder/redteam-lite-overview)
+
 ### LE Media Player
 
 A native Linux desktop media player with a real-time equalizer, loudness control and music visualizers.
@@ -135,11 +143,15 @@ Inspect Dynex transfers associated with MEXC in a dedicated incoming/outgoing ac
 
 Inspect published Dynex exchange in/out activity, balances and related analytics.
 
-[Open application](https://logicencoder.com/dynex-mexc-balance-monitor/)
+[Overview](https://github.com/logicencoder/dynex-mexc-balance-monitor-plugin-overview) · [Open application](https://logicencoder.com/dynex-mexc-balance-monitor/)
+
+![Dynex MEXC Balance Monitor dashboard with balance, in and out charts and transaction feed](https://raw.githubusercontent.com/logicencoder/dynex-mexc-balance-monitor-plugin-overview/8b2c6d80a105ee7ceb0ac9247f2a88e8e4670eb4/assets/dynex-mexc-balance-monitor-live-dashboard-in-out-charts.png)
 
 ### Basic CEX/DEX Comparator
 
 Compare DNX exchange trades with decentralized quotes at different trade sizes, with gas-cost context.
+
+[Overview](https://github.com/logicencoder/basic-cex-dex-comparator-overview)
 
 ### TS Analyzer
 

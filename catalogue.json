@@ -19,8 +19,7 @@
      "image": {
       "path": "assets/mexc-trading-app-trading-dashboard-order-book.png",
       "alt": "MEXC Trading App dashboard with chart, order book and manual order panel"
-     },
-     "note": "The same workstation exists for the Gate exchange."
+     }
     },
     {
      "name": "LE Karaoke Studio",
@@ -93,6 +92,21 @@
      }
     },
     {
+     "name": "MEXC Live Statistics",
+     "description": "Explore spot markets through charts, recent trading activity, analytics and a searchable coin catalogue.",
+     "repo": "mexc-live-stats-plugin-overview",
+     "image": {
+      "path": "assets/mexc-live-statistics-live-dashboard-market-trades.png",
+      "alt": "MEXC Live Statistics dashboard with market trades and analytics"
+     },
+     "more": [
+      {
+       "label": "Same thing for the Gate exchange: Gate Live Statistics",
+       "url": "https://github.com/logicencoder/gate-live-stats-plugin-overview"
+      }
+     ]
+    },
+    {
      "name": "European Electricity Monitor",
      "description": "Compare European electricity prices with demand, generation and cross-border market activity.",
      "repo": "elec-prices-bridge-overview",
@@ -122,7 +136,8 @@
     },
     {
      "name": "Red-Team Lite",
-     "description": "Run authorized web-application security checks and retain browser evidence and reports."
+     "description": "Run authorized web-application security checks and retain browser evidence and reports.",
+     "repo": "redteam-lite-overview"
     },
     {
      "name": "LE Media Player",
@@ -137,11 +152,17 @@
     {
      "name": "Dynex MEXC Balance Monitor",
      "description": "Inspect published Dynex exchange in/out activity, balances and related analytics.",
-     "live": "https://logicencoder.com/dynex-mexc-balance-monitor/"
+     "live": "https://logicencoder.com/dynex-mexc-balance-monitor/",
+     "repo": "dynex-mexc-balance-monitor-plugin-overview",
+     "image": {
+      "path": "assets/dynex-mexc-balance-monitor-live-dashboard-in-out-charts.png",
+      "alt": "Dynex MEXC Balance Monitor dashboard with balance, in and out charts and transaction feed"
+     }
     },
     {
      "name": "Basic CEX/DEX Comparator",
-     "description": "Compare DNX exchange trades with decentralized quotes at different trade sizes, with gas-cost context."
+     "description": "Compare DNX exchange trades with decentralized quotes at different trade sizes, with gas-cost context.",
+     "repo": "basic-cex-dex-comparator-overview"
     },
     {
      "name": "TS Analyzer",

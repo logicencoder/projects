@@ -47,7 +47,7 @@ Bring Bluetooth, Wi-Fi and satellite inspection into one workspace for authorize
 
 [Overview](https://github.com/logicencoder/le-hscr-overview)
 
-![LE HSCR radio monitoring workspace](https://raw.githubusercontent.com/logicencoder/le-hscr-overview/95af3b88d33cc077391670aa0017e6323fd7f3db/assets/le-hscr-radio-monitoring-workspace.png)
+![LE HSCR radio monitoring workspace](https://raw.githubusercontent.com/logicencoder/le-hscr-overview/81cd4c9613e35e92bea3a07dfaa37a1fed84d991/assets/le-hscr-radio-monitoring-workspace.png)
 
 ### WP Visitor Stats
 
@@ -105,7 +105,7 @@ Follow observed swaps, recurring addresses and comparison views in a focused on-
 
 [Overview](https://github.com/logicencoder/eth-chain-swaps-monitor-overview)
 
-![Ethereum Chain Swap Monitor live swap feed](https://raw.githubusercontent.com/logicencoder/eth-chain-swaps-monitor-overview/0489ec8b572053413bbdc35cc66c32b9992d7739/assets/eth-chain-swap-monitor-live-swap-feed-dashboard.png)
+![Ethereum Chain Swap Monitor live swap feed](https://raw.githubusercontent.com/logicencoder/eth-chain-swaps-monitor-overview/a8ff1b28d60786e28350969a3912a186097bc907/assets/eth-chain-swap-monitor-live-swap-feed-dashboard.png)
 
 ### CVE DoS
 
@@ -191,7 +191,7 @@ Explore a configurable fictional command deck with navigation, systems, crew and
 
 [Overview](https://github.com/logicencoder/roci-command-center-overview)
 
-![Rocinante Command Center simulated navigation](https://raw.githubusercontent.com/logicencoder/roci-command-center-overview/e44a09564fcb8251ed36b1688ec148d8d516acb0/assets/rocinante-command-center-simulated-navigation.png)
+![Rocinante Command Center simulated navigation](https://raw.githubusercontent.com/logicencoder/roci-command-center-overview/76d1af1701427683a75136a5c288d2611a859333/assets/rocinante-command-center-solar-system-tactical-deck.png)
 
 ### Russian DC Observatory
 
@@ -207,7 +207,7 @@ Compare indoor environmental measurements with trends and history from Awair Ele
 
 [Overview](https://github.com/logicencoder/le-awair-monitor-dashboard-overview)
 
-![Awair environmental metrics and measurement history](https://raw.githubusercontent.com/logicencoder/le-awair-monitor-dashboard-overview/c1528b39b4bdfa139faa0e5d01da193a28a03b0a/assets/awair-monitor-dashboard-air-quality-score-trend-history.png)
+![Awair environmental metrics and measurement history](https://raw.githubusercontent.com/logicencoder/le-awair-monitor-dashboard-overview/1154807b0cd2a9dd009256f177a5bbb623567599/assets/awair-monitor-dashboard-air-quality-score-trend-history.png)
 
 ### Military Flights Monitor
 

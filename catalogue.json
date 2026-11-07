@@ -197,7 +197,7 @@
      "description": "Explore a configurable fictional command deck with navigation, systems, crew and communications. All telemetry and contacts are simulated.",
      "repo": "roci-command-center-overview",
      "image": {
-      "path": "assets/rocinante-command-center-simulated-navigation.png",
+      "path": "assets/rocinante-command-center-solar-system-tactical-deck.png",
       "alt": "Rocinante Command Center simulated navigation"
      }
     },

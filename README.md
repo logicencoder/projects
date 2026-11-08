@@ -84,7 +84,7 @@ It is a configurable trading desk: panels can be moved, resized and collapsed, a
 
 ### Ethereum Gas Tracker
 
-![Ethereum Gas Tracker dashboard with gas price chart and fee tiers](https://raw.githubusercontent.com/logicencoder/eth-gas-live-plugin-overview/7cd6147f7b55cda009da4bb73426943ff60834cd/assets/eth-gas-live-dashboard-gas-price-chart.png)
+![Ethereum Gas Tracker dashboard with gas price chart and fee tiers](https://raw.githubusercontent.com/logicencoder/ethereum-gas-tracker-plugin-overview/0c86dfa1a548ebcc3dc18c18c16fb7cdb4950125/assets/eth-gas-live-dashboard-gas-price-chart.png)
 
 Other gas trackers did not have everything I wanted, so I built my own. It runs publicly on my site and was also a test bed for server-side rendering and search-engine optimisation.
 
@@ -96,7 +96,7 @@ Every new block becomes three send tiers (economical, standard and faster inclus
 | Application | PHP, WordPress |
 | Supporting technologies | HTML, JavaScript; Chart.js and Tailwind CSS (both loaded from a public CDN); Ethereum |
 
-[Overview](https://github.com/logicencoder/eth-gas-live-plugin-overview) · [Live](https://logicencoder.com/ethereum-gas-tracker/)
+[Overview](https://github.com/logicencoder/ethereum-gas-tracker-plugin-overview) · [Live](https://logicencoder.com/ethereum-gas-tracker/)
 
 ### MEXC Live Statistics
 
@@ -391,7 +391,7 @@ A score gauge and cards for temperature, humidity and the other air-quality valu
 
 ### Air Quality Slovakia
 
-![Air Quality Slovakia history of hourly readings and station changes](https://raw.githubusercontent.com/logicencoder/air-quality-bridge-overview/5d88f5f35cf49ccd52eed79e0d32dbddcf981a92/assets/slovak-air-quality-dashboard-history-hourly-source-index.png)
+![Air Quality Slovakia history of hourly readings and station changes](https://raw.githubusercontent.com/logicencoder/air-quality-slovakia-bridge-overview/5d73281c4a9f7c0ee6e6a060b804c4191357bedf/assets/slovak-air-quality-dashboard-history-hourly-source-index.png)
 
 Air quality in Slovakia from the national monitoring network, with the source and the age of each number visible.
 
@@ -408,7 +408,7 @@ One board and one map show where the air is clean, where it is not and how that 
 | Charts | Lightweight in-house chart script (distribution, history and comparison charts) |
 | Quality bands | Official SHMU air-quality classes from very good to very poor |
 
-[Overview](https://github.com/logicencoder/air-quality-bridge-overview) · [Live](https://logicencoder.com/air-quality-slovakia/)
+[Overview](https://github.com/logicencoder/air-quality-slovakia-bridge-overview) · [Live](https://logicencoder.com/air-quality-slovakia/)
 
 ### Dynex Large Transactions
 
@@ -500,7 +500,7 @@ Funding, open interest and volume of perpetual futures from several venues in on
 | History | SQLite snapshots per venue, symbol and time |
 | Delivery | Authenticated REST ingest into a WordPress plugin written in PHP, with page caching switched off for the live view |
 
-[Overview](https://github.com/logicencoder/deriv-board-bridge-overview) · [Live](https://logicencoder.com/crypto-perp-funding/)
+[Overview](https://github.com/logicencoder/crypto-perp-board-bridge-overview) · [Live](https://logicencoder.com/crypto-perp-funding/)
 
 ### LE Auto Record
 
@@ -571,7 +571,7 @@ Public ADS-B aircraft observations on a map, a globe and a searchable board.
 | Type | WordPress plugin |
 | Core stack | Python; PHP; WordPress; JavaScript |
 
-[Overview](https://github.com/logicencoder/mil-flights-bridge-overview) · [Live](https://logicencoder.com/military-flight-tracker/)
+[Overview](https://github.com/logicencoder/military-flights-monitor-bridge-overview) · [Live](https://logicencoder.com/military-flight-tracker/)
 
 ### Application boilerplates
 

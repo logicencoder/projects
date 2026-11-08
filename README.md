@@ -84,7 +84,7 @@ It is a configurable trading desk: panels can be moved, resized and collapsed, a
 
 ### Ethereum Gas Tracker
 
-![Ethereum Gas Tracker dashboard with gas price chart and fee tiers](https://raw.githubusercontent.com/logicencoder/ethereum-gas-tracker-plugin-overview/0c86dfa1a548ebcc3dc18c18c16fb7cdb4950125/assets/eth-gas-live-dashboard-gas-price-chart.png)
+![Ethereum Gas Tracker dashboard with gas price chart and fee tiers](https://raw.githubusercontent.com/logicencoder/ethereum-gas-tracker-plugin-overview/c59c20632fdc165eb3660463dbedc02c0319bb52/assets/ethereum-gas-tracker-dashboard-gas-price-chart.png)
 
 Other gas trackers did not have everything I wanted, so I built my own. It runs publicly on my site and was also a test bed for server-side rendering and search-engine optimisation.
 
@@ -391,7 +391,7 @@ A score gauge and cards for temperature, humidity and the other air-quality valu
 
 ### Air Quality Slovakia
 
-![Air Quality Slovakia history of hourly readings and station changes](https://raw.githubusercontent.com/logicencoder/air-quality-slovakia-bridge-overview/5d73281c4a9f7c0ee6e6a060b804c4191357bedf/assets/slovak-air-quality-dashboard-history-hourly-source-index.png)
+![Air Quality Slovakia history of hourly readings and station changes](https://raw.githubusercontent.com/logicencoder/air-quality-slovakia-bridge-overview/aa117721e4a6f29b286fd9fcbd34a0f934f4d1cc/assets/air-quality-slovakia-history-hourly-source-index.png)
 
 Air quality in Slovakia from the national monitoring network, with the source and the age of each number visible.
 

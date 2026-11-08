@@ -213,7 +213,7 @@ You can operate it: a command deck for a light frigate with three sections and f
 
 ### Le Sound Normalizer
 
-![Le Sound Normalizer with compressor knobs and 15-band equalizer](https://raw.githubusercontent.com/logicencoder/le-sound-normalizer-overview/7344dee31d360d8ccbcd3850b46fb6ba634ed37f/assets/le-sound-normalizer-15-band-equalizer-compressor.png)
+![Le Sound Normalizer with compressor knobs and 15-band equalizer](https://raw.githubusercontent.com/logicencoder/le-sound-normalizer-overview/ca883ee28549150d457c51dd0e0c5d7fe200c17f/assets/le-sound-normalizer-15-band-equalizer-compressor.png)
 
 Watching films, the jump from quiet dialogue to a loud action scene meant reaching for the volume again and again, which is annoying. I built a normalizer for that. It was also my test of building, compiling and packaging an application for Windows, because most of what I write targets Linux.
 
@@ -235,7 +235,7 @@ You choose a loudness ceiling and how firmly loud material is pulled toward quie
 
 ![Ethereum Chain Swap Monitor swap detail with pool liquidity breakdown](https://raw.githubusercontent.com/logicencoder/eth-chain-swaps-monitor-overview/8fe4193f20b100d6523d750b175e89951727ae87/assets/eth-chain-swap-monitor-pool-liquidity-breakdown-swap-detail.png)
 
-Another data-heavy build: processing a large amount of data reliably in real time. It has also taught me how long-running services fail. A full disk once silently stopped its scanner for weeks, and the fix was a scanner that restarts itself and reports when it stalls.
+Another data-heavy build: following swaps on Ethereum as they happen means processing a large amount of data reliably in real time.
 
 A Python process reads new Ethereum blocks and logs from a node, recognises swaps in known liquidity pools and values them in dollars. The dashboard shows a live feed of the latest 250 swaps with expandable detail, the 20 most active addresses with address search, saved quote tables per pool and a live terminal. Four monitoring modes choose what is read, and three themes and collapsible panels suit a long session.
 
@@ -471,6 +471,10 @@ The repository ships one out-of-tree kernel module, the stb0899 driver patched f
 | Clients | DVBViewer, TransEdit, VLC, ffprobe |
 
 [Overview](https://github.com/logicencoder/technisat-skystar-usb-2-hd-ci-satip)
+
+## Prototypes, skeletons and unfinished work
+
+These are skeletons, prototypes and work in progress. They are listed so it is clear what is unfinished; some of them run publicly, none is a finished product.
 
 ### XEX Spread Monitor
 

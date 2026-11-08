@@ -82,9 +82,9 @@ It is a configurable trading desk: panels can be moved, resized and collapsed, a
 
 [Overview](https://github.com/logicencoder/mexc_trading_app-overview)
 
-### ETH Gas Live
+### Ethereum Gas Tracker
 
-![ETH Gas Live dashboard with gas price chart and fee tiers](https://raw.githubusercontent.com/logicencoder/eth-gas-live-plugin-overview/0cafbf56bb6dccdd61aa9cd2831f681cc8dfea47/assets/eth-gas-live-dashboard-gas-price-chart.png)
+![Ethereum Gas Tracker dashboard with gas price chart and fee tiers](https://raw.githubusercontent.com/logicencoder/eth-gas-live-plugin-overview/7cd6147f7b55cda009da4bb73426943ff60834cd/assets/eth-gas-live-dashboard-gas-price-chart.png)
 
 Other gas trackers did not have everything I wanted, so I built my own. It runs publicly on my site and was also a test bed for server-side rendering and search-engine optimisation.
 
@@ -389,9 +389,9 @@ A score gauge and cards for temperature, humidity and the other air-quality valu
 
 [Overview](https://github.com/logicencoder/le-awair-monitor-dashboard-overview)
 
-### Slovak Air Quality Dashboard
+### Air Quality Slovakia
 
-![Slovak Air Quality Dashboard history of hourly readings and station changes](https://raw.githubusercontent.com/logicencoder/air-quality-bridge-overview/42e86a73e4c0228d0a01324f2fe9c00f0281804c/assets/slovak-air-quality-dashboard-history-hourly-source-index.png)
+![Air Quality Slovakia history of hourly readings and station changes](https://raw.githubusercontent.com/logicencoder/air-quality-bridge-overview/5d88f5f35cf49ccd52eed79e0d32dbddcf981a92/assets/slovak-air-quality-dashboard-history-hourly-source-index.png)
 
 Air quality in Slovakia from the national monitoring network, with the source and the age of each number visible.
 
@@ -489,7 +489,7 @@ Price gaps between two exchanges for the same coin, with fees and liquidity take
 
 [Overview](https://github.com/logicencoder/xex-spread-bridge-overview) · [Live](https://logicencoder.com/mexc-gate-price-spreads/)
 
-### Deriv Board
+### Crypto Perp Board
 
 Funding, open interest and volume of perpetual futures from several venues in one workspace.
 
@@ -549,7 +549,7 @@ European electricity prices set against demand, generation and cross-border acti
 
 [Overview](https://github.com/logicencoder/elec-prices-bridge-overview) · [Live](https://logicencoder.com/european-electricity-monitor/)
 
-### CVE DoS
+### CVE Watch
 
 Exploited vulnerabilities from public records in a searchable digest, being developed into a professional security search application.
 

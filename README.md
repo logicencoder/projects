@@ -1,6 +1,6 @@
 # Logic Encoder — Projects
 
-I am a hobbyist coder and designer, curious how things work under the surface. This page collects what I have built: applications, WordPress plugins and a theme, dashboards, tools, experiments and engineering notes. They are in very different stages. The public ones are listed at https://logicencoder.com/applications/; others are tools I use myself, test projects to learn a technology, prototypes or unfinished work. The order is rough: bigger, more complete projects first, smaller pieces and unfinished work at the end.
+I am a hobbyist coder and software architect, curious how things work under the surface. This page collects what I have built: applications, WordPress plugins and a theme, dashboards, tools, experiments and engineering notes. They are in very different stages. The public ones are listed at https://logicencoder.com/applications/; others are tools I use myself, test projects to learn a technology, prototypes or unfinished work. The order is rough: bigger, more complete projects first, smaller pieces and unfinished work at the end.
 
 A lot of what I build exists because the tool I needed did not exist or did not fit the way I work, so I made it. I like to build something working from nothing, watch it handle real data and improve it from what I see. Much of it is data-intensive and real-time: ingesting live feeds, normalising, aggregating, caching and presenting them so that they are useful.
 

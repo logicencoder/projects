@@ -261,21 +261,6 @@ Comparing an exchange price with a decentralised market is only the start of jud
 
 [Overview](https://github.com/logicencoder/cex-dex-arb-overview)
 
-### Red-Team Lite
-
-A small scanner for a quick first security pass over a web application you own or may test.
-
-It crawls the target to a chosen depth, collecting routes, forms and parameters, and probes them for exposed files, reflected cross-site scripting, SQL injection errors, local file inclusion, server-side request forgery, template injection, open redirects, insecure direct object references, exposed admin panels and default credentials you supply. Findings are rated by severity, serious ones get a browser screenshot as evidence, and each scan ends in JSON and Markdown reports. It runs from the command line, an API or a simple web form, and a bundled vulnerable sample application allows a safe trial run.
-
-| Layer | Technologies |
-|---|---|
-| Scanner | Python with a crawler and HTTP probes |
-| Evidence | Playwright with Chromium for screenshots |
-| Interface | Command line, a FastAPI endpoint and a single-page web form |
-| Reports | JSON and Markdown files |
-
-[Overview](https://github.com/logicencoder/redteam-lite-overview)
-
 ### LE Media Player
 
 A test project: porting my browser-based audio-effects lab to Rust. I wanted to learn Rust, development, building and compiling, so I picked something I already understood.

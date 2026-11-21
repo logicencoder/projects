@@ -139,9 +139,10 @@ It shows what the connected adapters and the tuner can see, keeps the history of
 
 | Layer | Technologies |
 |---|---|
-| Backend | Python with FastAPI |
-| Interface | One HTML page with JavaScript, draggable panels and charts |
-| Radios | Bluetooth LE adapter, Wi-Fi adapter in managed or monitor mode, DVB satellite tuner or SAT>IP |
+| Backend | Python with FastAPI, WebSocket and REST |
+| Interface | One HTML page with JavaScript, canvas charts and draggable panels |
+| Data | DuckDB session store |
+| Radios | Bluetooth LE adapter, Wi-Fi adapter in managed or monitor mode, DVB-S tuner or SAT>IP |
 | Packaging | Docker image based on Kali Linux, or a direct install on Ubuntu |
 
 [Overview](https://github.com/logicencoder/le-hscr-overview)
@@ -190,7 +191,10 @@ A single terminal program (Textual and psutil, one self-contained Linux executab
 | Layer | Technologies |
 |---|---|
 | Application | Python |
-| Supporting technologies | Textual; psutil; Linux |
+| Interface | Textual, Rich |
+| System data | psutil |
+| Configuration | YAML |
+| Packaging | Nuitka one-file build for Linux x86_64 |
 
 [Overview](https://github.com/logicencoder/system-monitor-app-overview)
 
@@ -290,9 +294,10 @@ A Python worker scans the chain and posts summaries to a WordPress plugin. The d
 |---|---|
 | Type | WordPress plugin |
 | Plugin | PHP and WordPress with a shortcode, a REST API and an admin settings page |
-| Front end | JavaScript, CSS, WebSocket and AJAX updates, interactive charts |
-| Data worker | A Python worker that scans the Dynex chain and posts summaries to the site |
-| Storage | WordPress database tables trimmed by scheduled jobs |
+| Data worker | A Python worker that scans every confirmed block and posts summaries to the plugin |
+| Interface | JavaScript and CSS, Chart.js charts |
+| Live updates | WebSocket push with an AJAX polling fallback |
+| Storage | WordPress database tables trimmed by an hourly job |
 
 [Overview](https://github.com/logicencoder/dynex-mexc-balance-monitor-plugin-overview) · [Live](https://logicencoder.com/dynex-mexc-balance-monitor/)
 
@@ -370,7 +375,10 @@ A score gauge and cards for temperature, humidity and the other air-quality valu
 
 | Layer | Technologies |
 |---|---|
-| Core stack | Python; Svelte; JavaScript; SQLite |
+| Backend | Python, FastAPI |
+| Interface | Svelte 5, SvelteKit, Chart.js |
+| Data | SQLite history and daily statistics |
+| Integrations | Awair Element local API, webhook, ntfy |
 
 [Overview](https://github.com/logicencoder/le-awair-monitor-dashboard-overview)
 
@@ -549,12 +557,16 @@ Exploited vulnerabilities from public records in a searchable digest, being deve
 
 ### Military Flights Monitor
 
-Public ADS-B aircraft observations on a map, a globe and a searchable board.
+Public ADS-B observations of military aircraft on a live map, a searchable board and activity and intel views.
+
+A Python worker keeps a 14-day sighting log and posts snapshots to a WordPress plugin. The page has a live map with trails and a density layer, a contact card with a 1 to 10 interest score and its reasons, a board that sorts, filters and exports to CSV, 48-hour activity charts and an intel view with aircraft on station, close pairs and new airframes. It is placed with one shortcode.
 
 | Layer | Technologies |
 |---|---|
 | Type | WordPress plugin |
-| Core stack | Python; PHP; WordPress; JavaScript |
+| Worker | Python, SQLite sighting log |
+| Plugin | PHP and WordPress, REST ingest, shortcode |
+| Interface | JavaScript, Leaflet, SVG charts |
 
 [Overview](https://github.com/logicencoder/military-flights-monitor-bridge-overview) · [Live](https://logicencoder.com/military-flight-tracker/)
 

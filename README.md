@@ -542,7 +542,7 @@ European electricity prices set against demand, generation and cross-border acti
 
 [Overview](https://github.com/logicencoder/elec-prices-bridge-overview) · [Live](https://logicencoder.com/european-electricity-monitor/)
 
-### CVE Watch
+### CVE Exploit Tracker
 
 Exploited vulnerabilities from public records in a searchable digest, being developed into a professional security search application.
 
@@ -553,7 +553,7 @@ Exploited vulnerabilities from public records in a searchable digest, being deve
 | Relevance filter | Keyword list for common server and developer stacks (operating systems, web servers, PHP and WordPress, Python, Node, Java, containers, databases,… |
 | History and de-duplication | SQLite log of what was already published |
 
-[Overview](https://github.com/logicencoder/cve-watch-bridge-overview) · [Live](https://logicencoder.com/cve-exploit-tracker/)
+[Overview](https://github.com/logicencoder/cve-exploit-tracker-overview) · [Live](https://logicencoder.com/cve-exploit-tracker/)
 
 ### Military Flights Monitor
 
